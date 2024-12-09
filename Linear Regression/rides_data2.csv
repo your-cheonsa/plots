@@ -1,0 +1,728 @@
+Ride_ID,Driver_ID,City,Date,Duration_min,Distance_km,Fare,Rating,Promo_Code,Driver_ID.1,Name,Age,City.1,Experience_Years,Average_Rating,Active_Status
+3,147,San Francisco,11/14/2024,8,4.6,8.95,4.5,WELCOME5,147,Raymond Hill,38,Chicago,16,4.3,Inactive
+23,147,New York,11/24/2024,34,17.7,20.68,4.9,WELCOME5,147,Raymond Hill,38,Chicago,16,4.3,Inactive
+131,103,Miami,11/16/2024,108,44.3,78.79,4.6,DISCOUNT10,103,Crystal Cook,57,Chicago,9,4.5,Inactive
+10,119,Los Angeles,11/7/2024,56,27.6,39.41,3.8,DISCOUNT10,119,April Rodriguez,44,Chicago,4,5,Active
+93,119,New York,11/3/2024,2,1.6,1.27,4.4,WELCOME5,119,April Rodriguez,44,Chicago,4,5,Active
+11,170,Miami,11/20/2024,47,29.3,82.09,4.8,WELCOME5,170,Erik Greene,37,Chicago,20,5,Inactive
+37,170,San Francisco,11/11/2024,67,41.1,108.1,4.3,DISCOUNT10,170,Erik Greene,37,Chicago,20,5,Inactive
+77,170,San Francisco,11/26/2024,22,12.6,10.31,4.8,WELCOME5,170,Erik Greene,37,Chicago,20,5,Inactive
+82,170,Chicago,11/18/2024,95,41.3,98.77,5,SAVE20,170,Erik Greene,37,Chicago,20,5,Inactive
+14,148,San Francisco,11/14/2024,31,12.9,34.17,3.8,DISCOUNT10,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+76,148,San Francisco,11/16/2024,100,41.7,112.92,4.5,SAVE20,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+68,111,Chicago,11/2/2024,86,42.5,118.47,4.3,WELCOME5,111,Barbara Bryant,52,Chicago,2,4.8,Inactive
+105,111,Miami,11/7/2024,90,48.5,62.76,3.8,WELCOME5,111,Barbara Bryant,52,Chicago,2,4.8,Inactive
+16,136,Los Angeles,11/25/2024,116,49.7,49.96,4.9,DISCOUNT10,136,Erik Simpson,29,Chicago,16,4,Inactive
+19,122,Los Angeles,11/21/2024,65,43.1,117.71,3.8,DISCOUNT10,122,Randall Cook,32,Chicago,15,5,Inactive
+100,122,Chicago,11/23/2024,74,39.7,75.9,5,SAVE20,122,Randall Cook,32,Chicago,15,5,Inactive
+43,115,Los Angeles,11/18/2024,91,38.9,87.05,4.4,SAVE20,115,Patrick Hall,37,Chicago,4,4.4,Active
+53,115,San Francisco,11/17/2024,13,6.2,6.34,3.6,DISCOUNT10,115,Patrick Hall,37,Chicago,4,4.4,Active
+25,151,Miami,11/5/2024,35,21.9,43.21,4.2,SAVE20,151,Kristen Smith,55,Chicago,14,4.7,Inactive
+54,151,Los Angeles,11/10/2024,66,31.4,29.07,3.7,DISCOUNT10,151,Kristen Smith,55,Chicago,14,4.7,Inactive
+103,151,New York,11/5/2024,61,32.8,16.99,3.6,WELCOME5,151,Kristen Smith,55,Chicago,14,4.7,Inactive
+35,195,Los Angeles,11/24/2024,109,46.2,87.16,4.6,SAVE20,195,Kathleen Soto,31,Chicago,9,4.4,Active
+40,158,New York,11/13/2024,102,43.9,57.95,4,SAVE20,158,Holly Li,47,Chicago,14,4.1,Inactive
+121,158,Chicago,11/10/2024,85,35.2,65.7,3.7,DISCOUNT10,158,Holly Li,47,Chicago,14,4.1,Inactive
+71,142,New York,11/10/2024,10,6.7,4.73,4,DISCOUNT10,142,Samuel Warren,58,Chicago,20,4.9,Active
+127,142,Los Angeles,11/30/2024,32,13.8,11.34,4.4,DISCOUNT10,142,Samuel Warren,58,Chicago,20,4.9,Active
+109,163,San Francisco,11/6/2024,57,25.3,44.56,3.7,WELCOME5,163,Laura Romero,32,Chicago,19,4,Active
+139,163,Miami,11/9/2024,10,5.8,4.49,3.7,SAVE20,163,Laura Romero,32,Chicago,19,4,Active
+143,128,Chicago,11/2/2024,34,20.3,15.34,4.2,WELCOME5,128,Chad Johnson,29,Chicago,7,4.4,Active
+169,140,San Francisco,11/3/2024,9,4.3,12.83,4.9,DISCOUNT10,140,David Walker,59,Chicago,2,4.6,Inactive
+174,151,New York,11/1/2024,68,38.6,49.2,3.8,WELCOME5,151,Kristen Smith,55,Chicago,14,4.7,Inactive
+175,124,Los Angeles,11/19/2024,69,35.6,101.76,4.8,DISCOUNT10,124,Eric Gray,25,Chicago,8,4.5,Active
+189,178,Chicago,11/11/2024,14,7.8,11.18,3.9,WELCOME5,178,Jeffery Williams,30,Chicago,20,4.6,Inactive
+199,122,Los Angeles,11/27/2024,57,30.1,37.4,3.8,SAVE20,122,Randall Cook,32,Chicago,15,5,Inactive
+213,146,New York,11/19/2024,29,13.6,33.43,4.8,SAVE20,146,Lawrence Santiago,43,Chicago,17,4.1,Inactive
+217,163,Miami,11/3/2024,84,46.3,42.15,4.3,DISCOUNT10,163,Laura Romero,32,Chicago,19,4,Active
+219,198,San Francisco,11/6/2024,11,7.3,12.94,4.5,SAVE20,198,Taylor Stephenson,58,Chicago,3,4.8,Inactive
+223,148,San Francisco,11/13/2024,70,39.9,103.5,3.5,WELCOME5,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+225,163,Chicago,11/30/2024,67,27.6,63.73,3.9,DISCOUNT10,163,Laura Romero,32,Chicago,19,4,Active
+226,122,Chicago,11/17/2024,13,7.2,7.2,3.6,SAVE20,122,Randall Cook,32,Chicago,15,5,Inactive
+228,111,Miami,11/9/2024,35,19.9,21.98,4.3,SAVE20,111,Barbara Bryant,52,Chicago,2,4.8,Inactive
+234,128,Miami,11/28/2024,61,38.3,33.95,3.5,WELCOME5,128,Chad Johnson,29,Chicago,7,4.4,Active
+238,163,Los Angeles,11/28/2024,71,35.7,86.19,4.3,WELCOME5,163,Laura Romero,32,Chicago,19,4,Active
+240,115,Los Angeles,11/7/2024,58,37.6,108.19,4.9,WELCOME5,115,Patrick Hall,37,Chicago,4,4.4,Active
+241,146,San Francisco,11/14/2024,113,45.4,74.85,4.3,DISCOUNT10,146,Lawrence Santiago,43,Chicago,17,4.1,Inactive
+247,140,Los Angeles,11/17/2024,48,20.4,52.35,4.6,WELCOME5,140,David Walker,59,Chicago,2,4.6,Inactive
+248,119,New York,11/9/2024,61,26.6,33.62,4.6,WELCOME5,119,April Rodriguez,44,Chicago,4,5,Active
+249,178,New York,11/5/2024,61,40.5,119.8,5,SAVE20,178,Jeffery Williams,30,Chicago,20,4.6,Inactive
+252,119,Chicago,11/6/2024,27,16.6,21.39,4,WELCOME5,119,April Rodriguez,44,Chicago,4,5,Active
+269,140,Chicago,11/18/2024,41,22.3,36.62,3.6,SAVE20,140,David Walker,59,Chicago,2,4.6,Inactive
+274,128,Miami,11/1/2024,6,4,7.71,4.8,SAVE20,128,Chad Johnson,29,Chicago,7,4.4,Active
+279,148,Los Angeles,11/14/2024,88,40.3,23.18,4.3,SAVE20,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+297,195,New York,11/1/2024,16,8.4,13.45,5,WELCOME5,195,Kathleen Soto,31,Chicago,9,4.4,Active
+299,103,Los Angeles,11/30/2024,39,22,21.45,4.3,DISCOUNT10,103,Crystal Cook,57,Chicago,9,4.5,Inactive
+303,146,San Francisco,11/17/2024,107,46.9,137.89,3.8,SAVE20,146,Lawrence Santiago,43,Chicago,17,4.1,Inactive
+307,136,Los Angeles,11/24/2024,74,32.2,59.57,4.3,DISCOUNT10,136,Erik Simpson,29,Chicago,16,4,Inactive
+311,136,Chicago,11/24/2024,27,12.8,22.72,4.8,SAVE20,136,Erik Simpson,29,Chicago,16,4,Inactive
+321,128,New York,11/9/2024,24,10.8,24.46,3.8,WELCOME5,128,Chad Johnson,29,Chicago,7,4.4,Active
+325,115,New York,11/18/2024,48,25.1,34.3,4,DISCOUNT10,115,Patrick Hall,37,Chicago,4,4.4,Active
+326,115,New York,11/2/2024,16,8.2,8.68,4.2,DISCOUNT10,115,Patrick Hall,37,Chicago,4,4.4,Active
+327,111,San Francisco,11/15/2024,4,2.3,6.89,4.8,DISCOUNT10,111,Barbara Bryant,52,Chicago,2,4.8,Inactive
+334,119,Chicago,11/15/2024,105,47.9,34.07,4.8,SAVE20,119,April Rodriguez,44,Chicago,4,5,Active
+337,178,Chicago,11/23/2024,88,36.2,86.42,4.7,DISCOUNT10,178,Jeffery Williams,30,Chicago,20,4.6,Inactive
+349,136,Miami,11/30/2024,39,26.2,55.88,3.5,WELCOME5,136,Erik Simpson,29,Chicago,16,4,Inactive
+353,170,Los Angeles,11/17/2024,10,4.4,5.39,4.4,WELCOME5,170,Erik Greene,37,Chicago,20,5,Inactive
+361,115,Los Angeles,11/6/2024,25,12.3,21.22,4.2,WELCOME5,115,Patrick Hall,37,Chicago,4,4.4,Active
+364,158,New York,11/16/2024,58,35.9,91.2,4.6,DISCOUNT10,158,Holly Li,47,Chicago,14,4.1,Inactive
+376,148,Chicago,11/23/2024,5,3.3,1.86,4.9,WELCOME5,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+380,136,Los Angeles,11/12/2024,22,14.3,8.02,4.7,WELCOME5,136,Erik Simpson,29,Chicago,16,4,Inactive
+382,158,Los Angeles,11/24/2024,52,24.3,57.45,4.2,SAVE20,158,Holly Li,47,Chicago,14,4.1,Inactive
+391,136,Los Angeles,11/26/2024,32,14.6,8.12,4.4,DISCOUNT10,136,Erik Simpson,29,Chicago,16,4,Inactive
+392,136,San Francisco,11/28/2024,80,42.3,87.02,4.1,WELCOME5,136,Erik Simpson,29,Chicago,16,4,Inactive
+394,115,Chicago,11/21/2024,2,1.3,2.57,4.4,WELCOME5,115,Patrick Hall,37,Chicago,4,4.4,Active
+395,198,New York,11/11/2024,23,13,7.92,4.5,DISCOUNT10,198,Taylor Stephenson,58,Chicago,3,4.8,Inactive
+396,178,Los Angeles,11/13/2024,28,11.6,29.59,4.5,SAVE20,178,Jeffery Williams,30,Chicago,20,4.6,Inactive
+401,148,New York,11/3/2024,101,47.6,26.22,4.5,SAVE20,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+403,170,Los Angeles,11/6/2024,73,41.4,54.7,3.8,DISCOUNT10,170,Erik Greene,37,Chicago,20,5,Inactive
+411,128,San Francisco,11/18/2024,85,48.1,114.26,4.8,DISCOUNT10,128,Chad Johnson,29,Chicago,7,4.4,Active
+420,198,San Francisco,11/25/2024,68,31,27.37,4,SAVE20,198,Taylor Stephenson,58,Chicago,3,4.8,Inactive
+421,158,Los Angeles,11/29/2024,49,31.9,66.02,4.8,SAVE20,158,Holly Li,47,Chicago,14,4.1,Inactive
+427,119,Chicago,11/15/2024,36,21.1,41.49,4.8,DISCOUNT10,119,April Rodriguez,44,Chicago,4,5,Active
+430,115,Chicago,11/14/2024,31,20.8,60.85,3.7,SAVE20,115,Patrick Hall,37,Chicago,4,4.4,Active
+437,128,Chicago,11/4/2024,2,1.2,2.85,4.8,DISCOUNT10,128,Chad Johnson,29,Chicago,7,4.4,Active
+441,158,New York,11/23/2024,55,34.2,101.98,4.6,DISCOUNT10,158,Holly Li,47,Chicago,14,4.1,Inactive
+450,163,Los Angeles,11/26/2024,6,4,9.17,4,WELCOME5,163,Laura Romero,32,Chicago,19,4,Active
+451,178,New York,11/12/2024,34,19.5,38.3,4.6,DISCOUNT10,178,Jeffery Williams,30,Chicago,20,4.6,Inactive
+452,198,New York,11/2/2024,19,12.1,30.61,3.7,WELCOME5,198,Taylor Stephenson,58,Chicago,3,4.8,Inactive
+466,147,Miami,11/17/2024,26,11.1,23.91,4.6,DISCOUNT10,147,Raymond Hill,38,Chicago,16,4.3,Inactive
+467,124,New York,11/26/2024,22,11.4,24.16,4.9,SAVE20,124,Eric Gray,25,Chicago,8,4.5,Active
+483,140,San Francisco,11/29/2024,63,29.6,79.66,3.5,SAVE20,140,David Walker,59,Chicago,2,4.6,Inactive
+484,195,New York,11/9/2024,46,23.1,50.28,4.9,DISCOUNT10,195,Kathleen Soto,31,Chicago,9,4.4,Active
+488,147,Miami,11/23/2024,94,42,93.72,4,DISCOUNT10,147,Raymond Hill,38,Chicago,16,4.3,Inactive
+494,124,Los Angeles,11/20/2024,38,22.7,53.83,3.8,WELCOME5,124,Eric Gray,25,Chicago,8,4.5,Active
+502,148,Chicago,11/16/2024,65,33,70.22,4.6,DISCOUNT10,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+529,115,Los Angeles,11/28/2024,60,32,18.23,4.8,DISCOUNT10,115,Patrick Hall,37,Chicago,4,4.4,Active
+533,151,San Francisco,11/30/2024,28,15.7,11.16,4.4,SAVE20,151,Kristen Smith,55,Chicago,14,4.7,Inactive
+539,148,Los Angeles,11/27/2024,43,28.5,52.95,3.5,WELCOME5,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+542,142,New York,11/6/2024,48,24.4,20.79,5,SAVE20,142,Samuel Warren,58,Chicago,20,4.9,Active
+546,140,New York,11/5/2024,73,38.4,78.2,3.7,DISCOUNT10,140,David Walker,59,Chicago,2,4.6,Inactive
+559,111,San Francisco,11/14/2024,13,5.5,10.15,4.2,DISCOUNT10,111,Barbara Bryant,52,Chicago,2,4.8,Inactive
+566,136,Miami,11/29/2024,46,22.6,47.62,4.7,DISCOUNT10,136,Erik Simpson,29,Chicago,16,4,Inactive
+571,151,Los Angeles,11/15/2024,69,31.1,89.54,3.6,SAVE20,151,Kristen Smith,55,Chicago,14,4.7,Inactive
+575,198,Los Angeles,11/26/2024,114,47.2,98.14,4.8,WELCOME5,198,Taylor Stephenson,58,Chicago,3,4.8,Inactive
+577,119,Los Angeles,11/10/2024,68,30.5,67.42,4.4,DISCOUNT10,119,April Rodriguez,44,Chicago,4,5,Active
+581,163,Chicago,11/17/2024,59,34.5,35.81,4,WELCOME5,163,Laura Romero,32,Chicago,19,4,Active
+585,122,Los Angeles,11/25/2024,58,27.2,79.71,3.7,WELCOME5,122,Randall Cook,32,Chicago,15,5,Inactive
+595,178,New York,11/19/2024,79,35.1,97.05,4.4,WELCOME5,178,Jeffery Williams,30,Chicago,20,4.6,Inactive
+597,170,Chicago,11/24/2024,44,19.5,37.5,4.4,SAVE20,170,Erik Greene,37,Chicago,20,5,Inactive
+600,142,Los Angeles,11/4/2024,34,16.9,36.18,3.9,DISCOUNT10,142,Samuel Warren,58,Chicago,20,4.9,Active
+617,119,San Francisco,11/28/2024,56,25.2,58.82,3.9,WELCOME5,119,April Rodriguez,44,Chicago,4,5,Active
+624,136,Miami,11/15/2024,4,2.3,3.34,4.7,DISCOUNT10,136,Erik Simpson,29,Chicago,16,4,Inactive
+626,147,Los Angeles,11/19/2024,77,48.4,54.42,4.6,SAVE20,147,Raymond Hill,38,Chicago,16,4.3,Inactive
+630,128,Chicago,11/23/2024,29,13.9,11.72,4.5,SAVE20,128,Chad Johnson,29,Chicago,7,4.4,Active
+638,178,Miami,11/30/2024,23,9.9,4.97,3.7,WELCOME5,178,Jeffery Williams,30,Chicago,20,4.6,Inactive
+639,198,Chicago,11/21/2024,8,5.1,10.89,3.9,SAVE20,198,Taylor Stephenson,58,Chicago,3,4.8,Inactive
+650,128,Chicago,11/17/2024,84,46.4,124.26,3.9,WELCOME5,128,Chad Johnson,29,Chicago,7,4.4,Active
+652,163,Los Angeles,11/24/2024,35,16.1,26.68,3.6,WELCOME5,163,Laura Romero,32,Chicago,19,4,Active
+653,140,Miami,11/18/2024,86,35.5,86.95,4.9,SAVE20,140,David Walker,59,Chicago,2,4.6,Inactive
+660,119,Chicago,11/18/2024,4,3,2.56,4,WELCOME5,119,April Rodriguez,44,Chicago,4,5,Active
+664,146,New York,11/3/2024,62,32.6,48.13,4.7,SAVE20,146,Lawrence Santiago,43,Chicago,17,4.1,Inactive
+670,163,Miami,11/26/2024,88,37,81.17,4.1,WELCOME5,163,Laura Romero,32,Chicago,19,4,Active
+680,140,Miami,11/28/2024,89,37.2,80.75,4,WELCOME5,140,David Walker,59,Chicago,2,4.6,Inactive
+683,195,Los Angeles,11/20/2024,55,23.3,59.58,4.9,WELCOME5,195,Kathleen Soto,31,Chicago,9,4.4,Active
+689,128,Chicago,11/2/2024,52,27,39.72,3.9,SAVE20,128,Chad Johnson,29,Chicago,7,4.4,Active
+697,115,Chicago,11/9/2024,60,24.9,28.82,4,WELCOME5,115,Patrick Hall,37,Chicago,4,4.4,Active
+699,128,Los Angeles,11/21/2024,83,42.1,55.45,3.8,DISCOUNT10,128,Chad Johnson,29,Chicago,7,4.4,Active
+702,140,Chicago,11/2/2024,36,15,22.85,3.6,WELCOME5,140,David Walker,59,Chicago,2,4.6,Inactive
+703,158,Chicago,11/8/2024,102,47.7,116.73,3.9,DISCOUNT10,158,Holly Li,47,Chicago,14,4.1,Inactive
+704,195,Miami,11/26/2024,58,29.4,38.47,4.5,SAVE20,195,Kathleen Soto,31,Chicago,9,4.4,Active
+707,198,Los Angeles,11/17/2024,49,28.8,26.25,4,SAVE20,198,Taylor Stephenson,58,Chicago,3,4.8,Inactive
+713,170,Chicago,11/15/2024,60,27.9,81.62,4.2,SAVE20,170,Erik Greene,37,Chicago,20,5,Inactive
+715,140,San Francisco,11/27/2024,25,14.9,41.11,4.6,SAVE20,140,David Walker,59,Chicago,2,4.6,Inactive
+719,111,Los Angeles,11/17/2024,34,15,32.46,4,DISCOUNT10,111,Barbara Bryant,52,Chicago,2,4.8,Inactive
+721,103,Chicago,11/28/2024,35,20.8,60.78,4.7,DISCOUNT10,103,Crystal Cook,57,Chicago,9,4.5,Inactive
+723,148,Miami,11/22/2024,75,30.6,29.79,3.6,DISCOUNT10,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+727,170,New York,11/23/2024,79,42.4,109.85,4.6,SAVE20,170,Erik Greene,37,Chicago,20,5,Inactive
+735,147,Chicago,11/19/2024,20,8.9,13.47,4.9,WELCOME5,147,Raymond Hill,38,Chicago,16,4.3,Inactive
+754,103,New York,11/5/2024,3,1.8,3.57,4.9,WELCOME5,103,Crystal Cook,57,Chicago,9,4.5,Inactive
+758,124,Miami,11/16/2024,80,34.9,90.14,4.1,WELCOME5,124,Eric Gray,25,Chicago,8,4.5,Active
+760,158,New York,11/10/2024,54,22.6,52.49,4.1,DISCOUNT10,158,Holly Li,47,Chicago,14,4.1,Inactive
+770,128,San Francisco,11/14/2024,4,2.2,3.95,3.5,DISCOUNT10,128,Chad Johnson,29,Chicago,7,4.4,Active
+797,195,New York,11/4/2024,58,25.5,53.75,3.7,DISCOUNT10,195,Kathleen Soto,31,Chicago,9,4.4,Active
+798,115,Los Angeles,11/3/2024,39,26,29.53,3.5,DISCOUNT10,115,Patrick Hall,37,Chicago,4,4.4,Active
+807,170,Los Angeles,11/13/2024,36,17.2,11.36,4,SAVE20,170,Erik Greene,37,Chicago,20,5,Inactive
+810,198,Chicago,11/7/2024,66,30.7,35.42,3.9,DISCOUNT10,198,Taylor Stephenson,58,Chicago,3,4.8,Inactive
+813,122,New York,11/5/2024,31,17,50.94,4.1,WELCOME5,122,Randall Cook,32,Chicago,15,5,Inactive
+815,119,Chicago,11/24/2024,82,38.7,86.43,4.9,WELCOME5,119,April Rodriguez,44,Chicago,4,5,Active
+820,170,Miami,11/4/2024,63,33.5,71.47,3.6,DISCOUNT10,170,Erik Greene,37,Chicago,20,5,Inactive
+835,122,Miami,11/1/2024,91,42.7,35.66,4.3,WELCOME5,122,Randall Cook,32,Chicago,15,5,Inactive
+847,151,Chicago,11/18/2024,92,47.1,123.5,3.6,WELCOME5,151,Kristen Smith,55,Chicago,14,4.7,Inactive
+851,128,Los Angeles,11/30/2024,24,15.5,24.79,4.7,WELCOME5,128,Chad Johnson,29,Chicago,7,4.4,Active
+853,115,San Francisco,11/1/2024,68,29.4,84.5,4.3,DISCOUNT10,115,Patrick Hall,37,Chicago,4,4.4,Active
+857,170,Miami,11/20/2024,35,23.1,34.26,4.5,DISCOUNT10,170,Erik Greene,37,Chicago,20,5,Inactive
+859,103,Los Angeles,11/16/2024,22,14.2,9.57,4.6,SAVE20,103,Crystal Cook,57,Chicago,9,4.5,Inactive
+867,140,San Francisco,11/17/2024,24,10.3,13.8,4,DISCOUNT10,140,David Walker,59,Chicago,2,4.6,Inactive
+868,148,Miami,11/6/2024,71,42.5,126.67,4.9,SAVE20,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+870,122,Los Angeles,11/24/2024,43,20.2,33.51,4.3,SAVE20,122,Randall Cook,32,Chicago,15,5,Inactive
+876,103,Chicago,11/19/2024,40,17.4,49.53,4.6,WELCOME5,103,Crystal Cook,57,Chicago,9,4.5,Inactive
+880,147,Los Angeles,11/18/2024,60,25.3,73.41,4.4,WELCOME5,147,Raymond Hill,38,Chicago,16,4.3,Inactive
+886,178,New York,11/14/2024,62,27.7,78.25,4.6,WELCOME5,178,Jeffery Williams,30,Chicago,20,4.6,Inactive
+887,142,New York,11/8/2024,13,8.9,8.8,4,WELCOME5,142,Samuel Warren,58,Chicago,20,4.9,Active
+888,136,Los Angeles,11/1/2024,13,6.5,7.19,4,DISCOUNT10,136,Erik Simpson,29,Chicago,16,4,Inactive
+889,146,Chicago,11/21/2024,69,32.3,43.14,3.6,SAVE20,146,Lawrence Santiago,43,Chicago,17,4.1,Inactive
+894,103,New York,11/4/2024,18,8.3,6.13,4.8,WELCOME5,103,Crystal Cook,57,Chicago,9,4.5,Inactive
+904,146,Los Angeles,11/9/2024,57,30.1,56.08,4.4,WELCOME5,146,Lawrence Santiago,43,Chicago,17,4.1,Inactive
+905,163,San Francisco,11/11/2024,61,33.8,71.96,4.1,DISCOUNT10,163,Laura Romero,32,Chicago,19,4,Active
+907,128,New York,11/8/2024,88,46.3,136.03,4.8,DISCOUNT10,128,Chad Johnson,29,Chicago,7,4.4,Active
+911,158,Miami,11/30/2024,10,4.2,3.03,3.9,SAVE20,158,Holly Li,47,Chicago,14,4.1,Inactive
+917,198,Los Angeles,11/21/2024,76,42.5,105.34,4.9,WELCOME5,198,Taylor Stephenson,58,Chicago,3,4.8,Inactive
+919,163,Los Angeles,11/1/2024,49,31.9,31.71,3.7,SAVE20,163,Laura Romero,32,Chicago,19,4,Active
+928,158,Miami,11/25/2024,53,21.9,40.26,3.8,SAVE20,158,Holly Li,47,Chicago,14,4.1,Inactive
+929,148,New York,11/3/2024,53,29.9,54.18,4.3,DISCOUNT10,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+930,170,New York,11/24/2024,15,9.3,12.3,4.2,SAVE20,170,Erik Greene,37,Chicago,20,5,Inactive
+934,111,Chicago,11/24/2024,57,31.4,92.46,4.5,SAVE20,111,Barbara Bryant,52,Chicago,2,4.8,Inactive
+938,142,San Francisco,11/6/2024,13,7.8,14.62,4.6,SAVE20,142,Samuel Warren,58,Chicago,20,4.9,Active
+946,178,Los Angeles,11/13/2024,80,36.8,103.94,4.8,WELCOME5,178,Jeffery Williams,30,Chicago,20,4.6,Inactive
+950,158,Chicago,11/4/2024,31,15.1,31.03,3.5,DISCOUNT10,158,Holly Li,47,Chicago,14,4.1,Inactive
+957,158,San Francisco,11/7/2024,96,44.5,127.79,3.7,SAVE20,158,Holly Li,47,Chicago,14,4.1,Inactive
+962,103,Miami,11/3/2024,22,12.5,14.97,4.2,WELCOME5,103,Crystal Cook,57,Chicago,9,4.5,Inactive
+965,136,Los Angeles,11/8/2024,80,34.5,24.6,4.4,WELCOME5,136,Erik Simpson,29,Chicago,16,4,Inactive
+968,115,New York,11/12/2024,77,41.6,81.54,4.6,WELCOME5,115,Patrick Hall,37,Chicago,4,4.4,Active
+974,158,New York,11/19/2024,9,4.8,14.18,4.5,SAVE20,158,Holly Li,47,Chicago,14,4.1,Inactive
+977,136,Chicago,11/23/2024,65,37.2,65.5,4.4,WELCOME5,136,Erik Simpson,29,Chicago,16,4,Inactive
+983,151,Miami,11/30/2024,77,48.5,138.11,4.9,DISCOUNT10,151,Kristen Smith,55,Chicago,14,4.7,Inactive
+989,148,Los Angeles,11/13/2024,84,34.3,101.02,4.1,DISCOUNT10,148,Isaiah Evans,60,Chicago,3,4.9,Inactive
+995,158,Miami,11/17/2024,59,39.1,81.14,4,WELCOME5,158,Holly Li,47,Chicago,14,4.1,Inactive
+999,163,Miami,11/1/2024,93,44.7,114.69,4.4,WELCOME5,163,Laura Romero,32,Chicago,19,4,Active
+4,120,Chicago,11/12/2024,46,26.5,54.88,4.7,SAVE20,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+5,193,San Francisco,11/7/2024,26,15.9,20.45,4.2,DISCOUNT10,193,Jason Adams,44,Los Angeles,11,4.3,Active
+33,193,Miami,11/14/2024,73,41.6,97.98,4.7,WELCOME5,193,Jason Adams,44,Los Angeles,11,4.3,Active
+108,193,San Francisco,11/29/2024,31,14.7,28.64,4.8,SAVE20,193,Jason Adams,44,Los Angeles,11,4.3,Active
+8,137,Miami,11/28/2024,55,33.1,41.67,4,SAVE20,137,Steven Alexander,47,Los Angeles,20,4.1,Active
+97,137,Los Angeles,11/13/2024,70,32.1,28.75,3.8,DISCOUNT10,137,Steven Alexander,47,Los Angeles,20,4.1,Active
+125,137,Chicago,11/7/2024,5,2.7,3.96,4,WELCOME5,137,Steven Alexander,47,Los Angeles,20,4.1,Active
+59,105,San Francisco,11/8/2024,29,13.6,21.71,3.6,WELCOME5,105,Jeffrey King,49,Los Angeles,4,4.4,Inactive
+20,107,Chicago,11/25/2024,44,21.7,30,4.9,DISCOUNT10,107,James Jones,41,Los Angeles,5,5,Inactive
+75,108,Chicago,11/30/2024,5,3.6,8.22,4.1,SAVE20,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+84,108,San Francisco,11/9/2024,51,24.1,43.15,4.3,SAVE20,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+13,161,San Francisco,11/28/2024,18,11.4,10.58,3.9,SAVE20,161,Thomas Watson,54,Los Angeles,9,4.4,Active
+15,127,Los Angeles,11/11/2024,59,26.4,77.73,4.6,SAVE20,127,Katherine Ellison,42,Los Angeles,11,4.6,Inactive
+17,132,Chicago,11/17/2024,84,42.9,125.46,3.7,SAVE20,132,Kaitlin Walton,27,Los Angeles,6,4.8,Active
+27,113,Miami,11/3/2024,74,33.2,73.77,3.7,WELCOME5,113,Brian Edwards II,35,Los Angeles,15,4.4,Inactive
+107,113,Chicago,11/25/2024,75,39.6,46.92,4.3,SAVE20,113,Brian Edwards II,35,Los Angeles,15,4.4,Inactive
+18,160,New York,11/5/2024,82,34.5,24.27,4.8,WELCOME5,160,Shelby Baldwin,56,Los Angeles,9,4.9,Inactive
+38,149,Miami,11/10/2024,41,26.9,61.77,4.5,SAVE20,149,Catherine Washington,54,Los Angeles,10,4.1,Active
+63,149,Chicago,11/14/2024,64,30.2,25.65,4.7,SAVE20,149,Catherine Washington,54,Los Angeles,10,4.1,Active
+56,157,San Francisco,11/22/2024,29,16.1,29.47,4.7,WELCOME5,157,Manuel Smith,31,Los Angeles,16,4.2,Inactive
+70,165,New York,11/5/2024,75,44.4,101.39,4.5,DISCOUNT10,165,Leonard Willis,29,Los Angeles,3,4.4,Active
+95,155,Los Angeles,11/6/2024,48,22.3,19.48,4.3,WELCOME5,155,Gregory Pruitt,34,Los Angeles,3,4,Active
+115,155,Los Angeles,11/4/2024,35,19.1,32.49,4.5,WELCOME5,155,Gregory Pruitt,34,Los Angeles,3,4,Active
+104,168,San Francisco,11/30/2024,104,49.5,56.19,3.5,DISCOUNT10,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+116,180,Los Angeles,11/4/2024,4,3,2.95,4.2,DISCOUNT10,180,Ray Clarke,51,Los Angeles,15,4.9,Inactive
+137,188,San Francisco,11/8/2024,30,13.9,13.92,4.2,DISCOUNT10,188,Molly Bell,47,Los Angeles,17,4.6,Active
+140,197,New York,11/3/2024,26,17.1,14.48,4.9,SAVE20,197,Michael Shields,49,Los Angeles,4,4.4,Active
+145,108,Los Angeles,11/1/2024,92,38.4,101.91,4.9,DISCOUNT10,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+150,167,New York,11/22/2024,75,41.1,60.51,4.3,DISCOUNT10,167,Glenn Schultz,33,Los Angeles,17,4.8,Active
+152,188,New York,11/23/2024,32,13.8,22.27,4.3,WELCOME5,188,Molly Bell,47,Los Angeles,17,4.6,Active
+159,188,San Francisco,11/25/2024,39,24.1,56,4.2,DISCOUNT10,188,Molly Bell,47,Los Angeles,17,4.6,Active
+168,161,Miami,11/24/2024,10,4.4,8.08,3.8,DISCOUNT10,161,Thomas Watson,54,Los Angeles,9,4.4,Active
+180,165,Miami,11/12/2024,81,41,21.75,3.8,WELCOME5,165,Leonard Willis,29,Los Angeles,3,4.4,Active
+182,157,Chicago,11/6/2024,54,22.5,59.16,4.7,WELCOME5,157,Manuel Smith,31,Los Angeles,16,4.2,Inactive
+195,120,Los Angeles,11/28/2024,59,24.9,24.59,3.9,SAVE20,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+198,157,Los Angeles,11/20/2024,121,49.6,74.61,4.5,WELCOME5,157,Manuel Smith,31,Los Angeles,16,4.2,Inactive
+201,108,San Francisco,11/6/2024,23,12.1,23.53,4.7,WELCOME5,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+205,127,New York,11/4/2024,44,29.5,63.37,4.5,DISCOUNT10,127,Katherine Ellison,42,Los Angeles,11,4.6,Inactive
+207,185,Los Angeles,11/18/2024,32,16,45.48,3.8,DISCOUNT10,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+221,135,Miami,11/23/2024,95,39.2,24.32,3.8,SAVE20,135,Michael Jackson,56,Los Angeles,19,4.8,Inactive
+229,167,New York,11/14/2024,108,45.1,85.44,4,WELCOME5,167,Glenn Schultz,33,Los Angeles,17,4.8,Active
+246,105,Los Angeles,11/29/2024,44,18.9,29.49,3.7,SAVE20,105,Jeffrey King,49,Los Angeles,4,4.4,Inactive
+257,127,Los Angeles,11/21/2024,24,10.8,7.57,3.7,DISCOUNT10,127,Katherine Ellison,42,Los Angeles,11,4.6,Inactive
+260,106,Miami,11/4/2024,65,42.8,110.76,4.6,DISCOUNT10,106,Frank Mitchell,27,Los Angeles,11,4.3,Inactive
+263,102,Chicago,11/11/2024,89,41.8,89.83,3.8,SAVE20,102,Holly Sherman,39,Los Angeles,19,4.3,Active
+265,185,Chicago,11/9/2024,78,41.8,105.88,4.7,SAVE20,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+268,168,Miami,11/27/2024,72,43.3,87.19,4.6,SAVE20,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+271,113,San Francisco,11/18/2024,73,30.6,87.25,4.1,SAVE20,113,Brian Edwards II,35,Los Angeles,15,4.4,Inactive
+272,135,San Francisco,11/3/2024,92,44.3,86.83,4.3,WELCOME5,135,Michael Jackson,56,Los Angeles,19,4.8,Inactive
+277,137,Los Angeles,11/28/2024,62,38.1,64.61,3.7,SAVE20,137,Steven Alexander,47,Los Angeles,20,4.1,Active
+283,134,Miami,11/6/2024,84,41,22.76,3.8,DISCOUNT10,134,Ashley Foster,59,Los Angeles,12,4.3,Inactive
+292,127,Los Angeles,11/22/2024,44,22.1,61.06,3.8,DISCOUNT10,127,Katherine Ellison,42,Los Angeles,11,4.6,Inactive
+295,168,Miami,11/12/2024,83,42.7,112.46,4.2,DISCOUNT10,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+298,102,Miami,11/3/2024,32,16.7,33.32,4.5,WELCOME5,102,Holly Sherman,39,Los Angeles,19,4.3,Active
+302,167,San Francisco,11/17/2024,104,48.8,89.77,4.4,DISCOUNT10,167,Glenn Schultz,33,Los Angeles,17,4.8,Active
+304,107,San Francisco,11/14/2024,2,1.3,1.69,3.9,SAVE20,107,James Jones,41,Los Angeles,5,5,Inactive
+306,157,San Francisco,11/12/2024,36,21.6,11.7,3.7,SAVE20,157,Manuel Smith,31,Los Angeles,16,4.2,Inactive
+308,155,New York,11/2/2024,16,10.8,12.75,4,DISCOUNT10,155,Gregory Pruitt,34,Los Angeles,3,4,Active
+310,149,New York,11/22/2024,49,28.4,56.28,4,WELCOME5,149,Catherine Washington,54,Los Angeles,10,4.1,Active
+313,160,Los Angeles,11/25/2024,41,20.3,34.23,4.9,WELCOME5,160,Shelby Baldwin,56,Los Angeles,9,4.9,Inactive
+316,197,San Francisco,11/28/2024,64,31.6,62.32,3.5,WELCOME5,197,Michael Shields,49,Los Angeles,4,4.4,Active
+317,106,Los Angeles,11/2/2024,22,9.4,27.41,4.6,DISCOUNT10,106,Frank Mitchell,27,Los Angeles,11,4.3,Inactive
+324,165,Los Angeles,11/10/2024,2,1.5,2.48,4.8,SAVE20,165,Leonard Willis,29,Los Angeles,3,4.4,Active
+358,155,San Francisco,11/15/2024,54,27.9,34.68,3.6,WELCOME5,155,Gregory Pruitt,34,Los Angeles,3,4,Active
+371,120,Los Angeles,11/24/2024,64,35.4,67.7,4,DISCOUNT10,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+379,108,Chicago,11/6/2024,92,40.3,56.68,4.2,WELCOME5,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+384,127,Chicago,11/7/2024,72,38,77.58,4.7,WELCOME5,127,Katherine Ellison,42,Los Angeles,11,4.6,Inactive
+387,168,New York,11/23/2024,67,30.4,59.6,4,WELCOME5,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+388,102,New York,11/3/2024,8,3.5,10.48,5,DISCOUNT10,102,Holly Sherman,39,Los Angeles,19,4.3,Active
+390,106,San Francisco,11/12/2024,99,47.8,135.8,4.1,SAVE20,106,Frank Mitchell,27,Los Angeles,11,4.3,Inactive
+399,120,New York,11/26/2024,47,22.1,11.94,5,DISCOUNT10,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+400,108,Los Angeles,11/29/2024,41,17.7,17.21,4.1,DISCOUNT10,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+405,185,San Francisco,11/14/2024,66,37.1,93.06,3.5,DISCOUNT10,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+408,180,New York,11/15/2024,41,19.5,10.18,4.1,SAVE20,180,Ray Clarke,51,Los Angeles,15,4.9,Inactive
+417,155,Los Angeles,11/28/2024,72,31.1,28.61,3.9,WELCOME5,155,Gregory Pruitt,34,Los Angeles,3,4,Active
+424,165,Los Angeles,11/23/2024,59,30.7,24.58,4.8,DISCOUNT10,165,Leonard Willis,29,Los Angeles,3,4.4,Active
+425,165,San Francisco,11/1/2024,17,7.9,20.44,4.5,DISCOUNT10,165,Leonard Willis,29,Los Angeles,3,4.4,Active
+433,105,Los Angeles,11/2/2024,35,21.8,63.09,4.1,DISCOUNT10,105,Jeffrey King,49,Los Angeles,4,4.4,Inactive
+436,134,Los Angeles,11/27/2024,18,7.3,8.01,4,WELCOME5,134,Ashley Foster,59,Los Angeles,12,4.3,Inactive
+445,120,Chicago,11/7/2024,36,18.1,20.96,4.4,DISCOUNT10,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+462,155,San Francisco,11/17/2024,83,35.3,91.92,4.7,SAVE20,155,Gregory Pruitt,34,Los Angeles,3,4,Active
+463,135,Los Angeles,11/17/2024,50,33.3,96.52,4.8,DISCOUNT10,135,Michael Jackson,56,Los Angeles,19,4.8,Inactive
+469,185,Los Angeles,11/30/2024,77,33.4,73.07,4.7,WELCOME5,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+476,107,Miami,11/26/2024,4,2.1,6,3.9,SAVE20,107,James Jones,41,Los Angeles,5,5,Inactive
+477,120,New York,11/22/2024,36,23.2,30.63,3.5,SAVE20,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+479,157,Miami,11/7/2024,94,42.4,87.72,4.2,SAVE20,157,Manuel Smith,31,Los Angeles,16,4.2,Inactive
+480,120,Los Angeles,11/15/2024,97,39.1,63.3,4.6,WELCOME5,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+485,105,New York,11/3/2024,65,41.5,119.45,3.9,DISCOUNT10,105,Jeffrey King,49,Los Angeles,4,4.4,Inactive
+506,137,New York,11/22/2024,3,1.3,2.42,4,WELCOME5,137,Steven Alexander,47,Los Angeles,20,4.1,Active
+507,188,Los Angeles,11/25/2024,111,48.8,103.88,5,DISCOUNT10,188,Molly Bell,47,Los Angeles,17,4.6,Active
+508,149,Los Angeles,11/22/2024,7,4.3,9.63,4.9,SAVE20,149,Catherine Washington,54,Los Angeles,10,4.1,Active
+509,155,Los Angeles,11/1/2024,110,46.9,40.35,4.7,SAVE20,155,Gregory Pruitt,34,Los Angeles,3,4,Active
+512,168,Chicago,11/9/2024,81,45.9,86.63,4.2,SAVE20,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+527,185,Los Angeles,11/26/2024,74,31.5,82.35,3.8,DISCOUNT10,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+531,105,Miami,11/26/2024,26,14.2,33.51,4.3,DISCOUNT10,105,Jeffrey King,49,Los Angeles,4,4.4,Inactive
+537,134,New York,11/16/2024,81,40.2,55.61,3.7,WELCOME5,134,Ashley Foster,59,Los Angeles,12,4.3,Inactive
+543,161,Chicago,11/5/2024,37,20.6,15.72,3.8,WELCOME5,161,Thomas Watson,54,Los Angeles,9,4.4,Active
+544,113,Miami,11/5/2024,34,21.6,36.83,4.9,DISCOUNT10,113,Brian Edwards II,35,Los Angeles,15,4.4,Inactive
+545,197,New York,11/25/2024,36,22.4,63.32,4.8,WELCOME5,197,Michael Shields,49,Los Angeles,4,4.4,Active
+547,197,Los Angeles,11/2/2024,11,4.6,9.22,4.7,DISCOUNT10,197,Michael Shields,49,Los Angeles,4,4.4,Active
+553,197,Miami,11/27/2024,31,13.1,7.82,4.9,WELCOME5,197,Michael Shields,49,Los Angeles,4,4.4,Active
+556,149,San Francisco,11/15/2024,58,23.4,27.87,4.2,WELCOME5,149,Catherine Washington,54,Los Angeles,10,4.1,Active
+558,185,Miami,11/19/2024,60,34.9,62.32,4.4,SAVE20,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+569,107,New York,11/6/2024,10,4.6,4.93,4.2,DISCOUNT10,107,James Jones,41,Los Angeles,5,5,Inactive
+570,165,New York,11/17/2024,25,16.7,25.79,5,SAVE20,165,Leonard Willis,29,Los Angeles,3,4.4,Active
+578,113,New York,11/20/2024,8,4.1,10.05,4.7,WELCOME5,113,Brian Edwards II,35,Los Angeles,15,4.4,Inactive
+587,132,Los Angeles,11/21/2024,69,38.4,76.37,3.5,WELCOME5,132,Kaitlin Walton,27,Los Angeles,6,4.8,Active
+588,102,New York,11/21/2024,9,3.8,5.79,4.2,DISCOUNT10,102,Holly Sherman,39,Los Angeles,19,4.3,Active
+589,171,Chicago,11/17/2024,2,1.3,0.92,3.5,WELCOME5,171,Catherine Gonzalez,43,Los Angeles,19,4.5,Active
+590,137,San Francisco,11/13/2024,74,38.4,40.72,4.9,WELCOME5,137,Steven Alexander,47,Los Angeles,20,4.1,Active
+594,180,Los Angeles,11/29/2024,55,23.5,32.43,3.8,SAVE20,180,Ray Clarke,51,Los Angeles,15,4.9,Inactive
+596,165,Chicago,11/27/2024,18,8,4.84,4.8,SAVE20,165,Leonard Willis,29,Los Angeles,3,4.4,Active
+604,107,Miami,11/16/2024,4,2.7,7.95,4.9,SAVE20,107,James Jones,41,Los Angeles,5,5,Inactive
+607,161,Miami,11/14/2024,71,35.3,40.63,4.2,WELCOME5,161,Thomas Watson,54,Los Angeles,9,4.4,Active
+609,107,Los Angeles,11/25/2024,37,21.6,62.44,4.1,DISCOUNT10,107,James Jones,41,Los Angeles,5,5,Inactive
+614,134,Chicago,11/22/2024,51,22.6,49.23,4.2,SAVE20,134,Ashley Foster,59,Los Angeles,12,4.3,Inactive
+620,185,New York,11/30/2024,2,1.1,1.76,3.8,DISCOUNT10,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+628,168,Los Angeles,11/19/2024,56,25.7,20.42,4.9,SAVE20,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+629,167,Los Angeles,11/13/2024,38,17.5,50.72,4.1,SAVE20,167,Glenn Schultz,33,Los Angeles,17,4.8,Active
+640,180,Chicago,11/12/2024,32,15.9,38.03,4.4,SAVE20,180,Ray Clarke,51,Los Angeles,15,4.9,Inactive
+645,132,Miami,11/16/2024,64,35.2,93.39,3.5,WELCOME5,132,Kaitlin Walton,27,Los Angeles,6,4.8,Active
+649,108,New York,11/5/2024,18,9.4,14.77,4,DISCOUNT10,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+654,127,Miami,11/17/2024,25,11.9,16.44,4.7,WELCOME5,127,Katherine Ellison,42,Los Angeles,11,4.6,Inactive
+658,149,New York,11/8/2024,48,29.8,68.07,3.5,WELCOME5,149,Catherine Washington,54,Los Angeles,10,4.1,Active
+659,171,New York,11/24/2024,65,26.5,28.56,4.4,SAVE20,171,Catherine Gonzalez,43,Los Angeles,19,4.5,Active
+663,185,New York,11/16/2024,56,23.5,43.01,3.7,SAVE20,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+678,185,Chicago,11/10/2024,66,27.1,50.48,4.4,DISCOUNT10,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+694,167,Chicago,11/12/2024,68,35.8,45.47,4,SAVE20,167,Glenn Schultz,33,Los Angeles,17,4.8,Active
+695,135,San Francisco,11/17/2024,17,10.5,11.41,4.8,SAVE20,135,Michael Jackson,56,Los Angeles,19,4.8,Inactive
+696,171,New York,11/21/2024,85,45.4,23.16,3.9,DISCOUNT10,171,Catherine Gonzalez,43,Los Angeles,19,4.5,Active
+705,161,San Francisco,11/22/2024,49,28.6,57.61,4.4,SAVE20,161,Thomas Watson,54,Los Angeles,9,4.4,Active
+708,107,New York,11/9/2024,56,34.4,39.17,4.8,WELCOME5,107,James Jones,41,Los Angeles,5,5,Inactive
+714,108,Chicago,11/19/2024,64,28.7,69.03,4.6,SAVE20,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+718,120,San Francisco,11/24/2024,13,6.3,18.39,5,SAVE20,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+725,185,Chicago,11/28/2024,35,20.6,59.61,4.5,SAVE20,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+731,197,Miami,11/12/2024,39,23.8,33.27,4.8,WELCOME5,197,Michael Shields,49,Los Angeles,4,4.4,Active
+736,168,New York,11/8/2024,75,37.5,112.08,4.5,SAVE20,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+741,188,Miami,11/30/2024,41,18.4,35.15,4.1,SAVE20,188,Molly Bell,47,Los Angeles,17,4.6,Active
+743,168,Miami,11/15/2024,79,40.8,65.08,3.5,SAVE20,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+751,161,Chicago,11/4/2024,2,1.1,1.04,4.4,DISCOUNT10,161,Thomas Watson,54,Los Angeles,9,4.4,Active
+761,161,Miami,11/23/2024,34,20.8,59.08,4.1,WELCOME5,161,Thomas Watson,54,Los Angeles,9,4.4,Active
+765,132,Los Angeles,11/11/2024,4,2.6,4.29,4.7,SAVE20,132,Kaitlin Walton,27,Los Angeles,6,4.8,Active
+780,135,Los Angeles,11/3/2024,11,7.7,15.99,4.7,DISCOUNT10,135,Michael Jackson,56,Los Angeles,19,4.8,Inactive
+782,168,New York,11/4/2024,17,7.5,11.05,4.1,WELCOME5,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+785,108,New York,11/12/2024,24,10.4,9.58,4.4,WELCOME5,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+792,132,Los Angeles,11/13/2024,63,27,27.68,4.8,SAVE20,132,Kaitlin Walton,27,Los Angeles,6,4.8,Active
+793,120,New York,11/25/2024,80,39,111.7,4,SAVE20,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+801,137,San Francisco,11/11/2024,76,42.1,105.52,3.8,WELCOME5,137,Steven Alexander,47,Los Angeles,20,4.1,Active
+803,171,Miami,11/9/2024,65,41.6,41.55,4.2,WELCOME5,171,Catherine Gonzalez,43,Los Angeles,19,4.5,Active
+808,171,New York,11/6/2024,11,6.8,6.6,4,WELCOME5,171,Catherine Gonzalez,43,Los Angeles,19,4.5,Active
+812,197,San Francisco,11/15/2024,9,5.7,16.41,4.6,SAVE20,197,Michael Shields,49,Los Angeles,4,4.4,Active
+816,165,Chicago,11/6/2024,15,6.6,16.89,4.5,SAVE20,165,Leonard Willis,29,Los Angeles,3,4.4,Active
+817,149,Los Angeles,11/19/2024,70,32.1,32.88,4.6,DISCOUNT10,149,Catherine Washington,54,Los Angeles,10,4.1,Active
+818,102,San Francisco,11/2/2024,13,5.8,5.58,4.6,WELCOME5,102,Holly Sherman,39,Los Angeles,19,4.3,Active
+821,185,San Francisco,11/18/2024,26,14.5,40.17,4,SAVE20,185,Diane Harmon,34,Los Angeles,4,4.8,Active
+823,134,Chicago,11/11/2024,60,31,86.49,4.2,DISCOUNT10,134,Ashley Foster,59,Los Angeles,12,4.3,Inactive
+829,105,San Francisco,11/23/2024,73,48.5,114.62,3.7,WELCOME5,105,Jeffrey King,49,Los Angeles,4,4.4,Inactive
+830,105,Miami,11/16/2024,8,4.7,11.02,4.9,SAVE20,105,Jeffrey King,49,Los Angeles,4,4.4,Inactive
+837,107,San Francisco,11/9/2024,63,27.8,38.75,4.6,DISCOUNT10,107,James Jones,41,Los Angeles,5,5,Inactive
+838,157,Chicago,11/8/2024,87,44.8,131.4,4.2,WELCOME5,157,Manuel Smith,31,Los Angeles,16,4.2,Inactive
+848,149,San Francisco,11/7/2024,5,2.7,8.04,4.9,SAVE20,149,Catherine Washington,54,Los Angeles,10,4.1,Active
+850,127,Los Angeles,11/27/2024,39,17,16.87,4.7,DISCOUNT10,127,Katherine Ellison,42,Los Angeles,11,4.6,Inactive
+860,127,San Francisco,11/21/2024,94,41.1,96.4,4.6,SAVE20,127,Katherine Ellison,42,Los Angeles,11,4.6,Inactive
+874,188,Los Angeles,11/16/2024,51,21.4,47.74,4.9,SAVE20,188,Molly Bell,47,Los Angeles,17,4.6,Active
+877,171,Chicago,11/16/2024,20,9.9,20.61,3.7,DISCOUNT10,171,Catherine Gonzalez,43,Los Angeles,19,4.5,Active
+881,120,Miami,11/2/2024,68,43.2,51.62,3.7,SAVE20,120,Andrew Heath,26,Los Angeles,3,4.2,Active
+893,102,New York,11/11/2024,50,26.4,57.84,3.7,DISCOUNT10,102,Holly Sherman,39,Los Angeles,19,4.3,Active
+895,127,Chicago,11/11/2024,38,15.9,16.76,4,DISCOUNT10,127,Katherine Ellison,42,Los Angeles,11,4.6,Inactive
+899,149,San Francisco,11/10/2024,58,24.3,71.47,3.7,WELCOME5,149,Catherine Washington,54,Los Angeles,10,4.1,Active
+908,132,Chicago,11/5/2024,88,42.2,104.58,4.3,DISCOUNT10,132,Kaitlin Walton,27,Los Angeles,6,4.8,Active
+910,102,Los Angeles,11/13/2024,19,12.3,10.8,3.7,WELCOME5,102,Holly Sherman,39,Los Angeles,19,4.3,Active
+914,193,Chicago,11/3/2024,79,47.1,138.02,4,WELCOME5,193,Jason Adams,44,Los Angeles,11,4.3,Active
+922,102,Chicago,11/13/2024,68,30.9,53.92,3.6,DISCOUNT10,102,Holly Sherman,39,Los Angeles,19,4.3,Active
+937,132,Miami,11/8/2024,12,5.2,4.81,3.6,DISCOUNT10,132,Kaitlin Walton,27,Los Angeles,6,4.8,Active
+939,193,San Francisco,11/29/2024,39,24.7,56.52,4.5,WELCOME5,193,Jason Adams,44,Los Angeles,11,4.3,Active
+941,171,New York,11/20/2024,69,38.7,65.74,3.8,WELCOME5,171,Catherine Gonzalez,43,Los Angeles,19,4.5,Active
+949,168,New York,11/8/2024,50,33.2,32.74,4.6,DISCOUNT10,168,Andrew Dunn,25,Los Angeles,19,4.8,Active
+979,155,San Francisco,11/23/2024,78,34.9,52.32,4.9,WELCOME5,155,Gregory Pruitt,34,Los Angeles,3,4,Active
+993,108,Los Angeles,11/18/2024,74,34.8,58.05,4,WELCOME5,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+994,134,San Francisco,11/19/2024,14,6,5.63,4.8,WELCOME5,134,Ashley Foster,59,Los Angeles,12,4.3,Inactive
+998,108,New York,11/15/2024,99,44.8,72.22,3.7,DISCOUNT10,108,Ronald Holden,35,Los Angeles,7,4.9,Active
+110,101,Miami,11/26/2024,30,12.9,23.92,4.7,WELCOME5,101,William Black,56,San Francisco,15,4.8,Active
+7,144,San Francisco,11/27/2024,48,29.5,58.48,3.7,WELCOME5,144,Valerie Henry MD,47,San Francisco,12,4.8,Inactive
+61,144,Chicago,11/27/2024,48,28.7,78.93,3.8,DISCOUNT10,144,Valerie Henry MD,47,San Francisco,12,4.8,Inactive
+48,104,Chicago,11/13/2024,22,9.5,22.65,3.5,SAVE20,104,Tiffany Wright,58,San Francisco,19,4.4,Inactive
+78,104,Los Angeles,11/29/2024,30,14.6,11.03,4,SAVE20,104,Tiffany Wright,58,San Francisco,19,4.4,Inactive
+26,190,Miami,11/27/2024,31,14.3,30.32,4.8,DISCOUNT10,190,Michelle Rhodes,29,San Francisco,20,4.2,Active
+30,190,New York,11/17/2024,50,24.2,28.81,3.9,SAVE20,190,Michelle Rhodes,29,San Francisco,20,4.2,Active
+36,190,Miami,11/25/2024,34,16.9,13.12,4.7,SAVE20,190,Michelle Rhodes,29,San Francisco,20,4.2,Active
+96,190,New York,11/19/2024,59,24.6,40.58,4.8,WELCOME5,190,Michelle Rhodes,29,San Francisco,20,4.2,Active
+118,190,New York,11/30/2024,84,42.5,83.61,4.4,WELCOME5,190,Michelle Rhodes,29,San Francisco,20,4.2,Active
+79,121,Los Angeles,11/5/2024,26,14.1,35.73,3.8,WELCOME5,121,David Moore,32,San Francisco,9,4.9,Inactive
+31,164,Miami,11/17/2024,24,13.8,24.67,4.4,DISCOUNT10,164,Joshua Williams,33,San Francisco,9,4.5,Inactive
+117,164,San Francisco,11/19/2024,21,13.9,30.05,3.9,WELCOME5,164,Joshua Williams,33,San Francisco,9,4.5,Inactive
+47,152,San Francisco,11/10/2024,41,17.5,35.47,3.8,SAVE20,152,Sharon Jones,36,San Francisco,9,4.2,Active
+57,177,Chicago,11/8/2024,68,38.1,104.2,3.8,SAVE20,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+112,177,Miami,11/6/2024,22,14.9,18.84,4.6,SAVE20,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+113,177,Chicago,11/16/2024,23,12,19.62,4,WELCOME5,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+134,145,Miami,11/27/2024,56,29.9,62.92,3.5,DISCOUNT10,145,Adam Noble,52,San Francisco,11,4.8,Active
+111,153,Los Angeles,11/22/2024,9,4.8,6.09,3.6,SAVE20,153,Omar Dunn,40,San Francisco,2,4.6,Active
+135,183,San Francisco,11/10/2024,96,48,31.72,4.9,SAVE20,183,Ashley Burke,37,San Francisco,19,4.8,Inactive
+141,144,San Francisco,11/11/2024,51,27.2,60.35,4.6,SAVE20,144,Valerie Henry MD,47,San Francisco,12,4.8,Inactive
+142,104,Miami,11/4/2024,76,32.4,92.04,4.4,SAVE20,104,Tiffany Wright,58,San Francisco,19,4.4,Inactive
+146,121,Chicago,11/20/2024,54,24.4,41.52,4.9,DISCOUNT10,121,David Moore,32,San Francisco,9,4.9,Inactive
+157,194,Chicago,11/20/2024,29,18.1,26.97,3.6,SAVE20,194,Jill Patterson,53,San Francisco,18,4.8,Inactive
+158,153,Los Angeles,11/22/2024,38,18.6,15.94,4.4,DISCOUNT10,153,Omar Dunn,40,San Francisco,2,4.6,Active
+160,154,Los Angeles,11/6/2024,9,5.5,5.36,4.3,DISCOUNT10,154,Heather Meyer,58,San Francisco,11,4,Active
+179,190,Los Angeles,11/14/2024,82,37.6,41.36,3.5,DISCOUNT10,190,Michelle Rhodes,29,San Francisco,20,4.2,Active
+190,121,Los Angeles,11/14/2024,96,46.3,112.31,3.5,SAVE20,121,David Moore,32,San Francisco,9,4.9,Inactive
+191,152,Miami,11/30/2024,33,21.5,11.02,3.9,DISCOUNT10,152,Sharon Jones,36,San Francisco,9,4.2,Active
+194,194,Los Angeles,11/27/2024,107,45.9,36.77,4.8,SAVE20,194,Jill Patterson,53,San Francisco,18,4.8,Inactive
+214,139,New York,11/5/2024,94,39.4,50.21,3.6,DISCOUNT10,139,John Deleon,47,San Francisco,11,4.3,Inactive
+230,154,Chicago,11/4/2024,67,30,71.71,4.8,DISCOUNT10,154,Heather Meyer,58,San Francisco,11,4,Active
+235,121,New York,11/18/2024,42,17.2,24.36,3.6,SAVE20,121,David Moore,32,San Francisco,9,4.9,Inactive
+239,194,New York,11/29/2024,92,43.7,61.33,4.2,DISCOUNT10,194,Jill Patterson,53,San Francisco,18,4.8,Inactive
+243,181,Los Angeles,11/8/2024,73,31.9,42.35,4.4,SAVE20,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+244,189,Miami,11/12/2024,16,6.6,12.31,4.4,WELCOME5,189,Christopher Garcia,59,San Francisco,19,4.9,Inactive
+254,199,Miami,11/23/2024,95,45.9,23.32,4,DISCOUNT10,199,Monica Copeland,37,San Francisco,10,4.1,Inactive
+270,153,New York,11/11/2024,64,27.7,61.04,4,WELCOME5,153,Omar Dunn,40,San Francisco,2,4.6,Active
+314,117,San Francisco,11/6/2024,75,40.8,54.29,4.4,SAVE20,117,Lisa Brown,36,San Francisco,20,4.8,Active
+328,181,New York,11/5/2024,52,33.8,87.43,4.9,WELCOME5,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+369,189,New York,11/8/2024,32,18,21.73,4.1,SAVE20,189,Christopher Garcia,59,San Francisco,19,4.9,Inactive
+370,145,San Francisco,11/19/2024,53,23,53.02,4.9,DISCOUNT10,145,Adam Noble,52,San Francisco,11,4.8,Active
+377,144,New York,11/20/2024,34,15.3,13.81,4.8,SAVE20,144,Valerie Henry MD,47,San Francisco,12,4.8,Inactive
+406,139,New York,11/4/2024,88,39.5,106.16,4.8,WELCOME5,139,John Deleon,47,San Francisco,11,4.3,Inactive
+415,145,New York,11/23/2024,65,28.8,83.27,4.8,DISCOUNT10,145,Adam Noble,52,San Francisco,11,4.8,Active
+419,145,New York,11/26/2024,27,14.4,23.04,3.6,DISCOUNT10,145,Adam Noble,52,San Francisco,11,4.8,Active
+426,183,New York,11/10/2024,73,43.9,123.9,4.1,WELCOME5,183,Ashley Burke,37,San Francisco,19,4.8,Inactive
+431,190,Miami,11/5/2024,3,1.6,3.98,4.5,WELCOME5,190,Michelle Rhodes,29,San Francisco,20,4.2,Active
+440,139,San Francisco,11/12/2024,57,34.8,99.91,4,DISCOUNT10,139,John Deleon,47,San Francisco,11,4.3,Inactive
+453,154,Miami,11/30/2024,44,22.1,66.27,4.7,SAVE20,154,Heather Meyer,58,San Francisco,11,4,Active
+455,177,New York,11/7/2024,61,27.3,60.56,3.8,DISCOUNT10,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+458,164,Chicago,11/25/2024,88,47.8,31.48,4.7,WELCOME5,164,Joshua Williams,33,San Francisco,9,4.5,Inactive
+461,183,New York,11/29/2024,4,3.1,8.24,3.8,SAVE20,183,Ashley Burke,37,San Francisco,19,4.8,Inactive
+471,153,Chicago,11/22/2024,60,38.5,53.44,4.1,WELCOME5,153,Omar Dunn,40,San Francisco,2,4.6,Active
+478,104,New York,11/11/2024,24,11.5,12.97,4.7,SAVE20,104,Tiffany Wright,58,San Francisco,19,4.4,Inactive
+491,152,San Francisco,11/24/2024,10,6.6,9.58,4.5,SAVE20,152,Sharon Jones,36,San Francisco,9,4.2,Active
+501,153,Miami,11/30/2024,22,11.6,27.72,4.7,WELCOME5,153,Omar Dunn,40,San Francisco,2,4.6,Active
+503,181,New York,11/22/2024,63,31.8,78.92,4.5,DISCOUNT10,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+514,189,Chicago,11/11/2024,62,32.3,89.85,5,SAVE20,189,Christopher Garcia,59,San Francisco,19,4.9,Inactive
+518,104,San Francisco,11/11/2024,35,21.3,33.04,4.3,DISCOUNT10,104,Tiffany Wright,58,San Francisco,19,4.4,Inactive
+548,153,Chicago,11/3/2024,14,9.1,14.92,3.9,WELCOME5,153,Omar Dunn,40,San Francisco,2,4.6,Active
+549,189,Miami,11/16/2024,6,3.1,9.07,4.9,SAVE20,189,Christopher Garcia,59,San Francisco,19,4.9,Inactive
+550,152,Chicago,11/11/2024,10,4.4,4.78,4.1,WELCOME5,152,Sharon Jones,36,San Francisco,9,4.2,Active
+551,181,New York,11/6/2024,44,27.8,51.78,4.9,WELCOME5,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+552,145,San Francisco,11/7/2024,29,17.1,31.3,4.6,WELCOME5,145,Adam Noble,52,San Francisco,11,4.8,Active
+554,154,New York,11/15/2024,74,34.1,90.18,4.8,DISCOUNT10,154,Heather Meyer,58,San Francisco,11,4,Active
+563,144,Miami,11/14/2024,103,45.9,88.96,4.2,WELCOME5,144,Valerie Henry MD,47,San Francisco,12,4.8,Inactive
+593,177,Los Angeles,11/29/2024,59,39.1,35.9,3.7,DISCOUNT10,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+598,144,San Francisco,11/25/2024,60,34.3,61.9,3.7,SAVE20,144,Valerie Henry MD,47,San Francisco,12,4.8,Inactive
+601,121,San Francisco,11/30/2024,29,15.7,12.93,4.4,DISCOUNT10,121,David Moore,32,San Francisco,9,4.9,Inactive
+603,145,San Francisco,11/11/2024,26,13.9,7.01,4.5,DISCOUNT10,145,Adam Noble,52,San Francisco,11,4.8,Active
+608,153,San Francisco,11/7/2024,64,37.7,36.66,5,WELCOME5,153,Omar Dunn,40,San Francisco,2,4.6,Active
+610,199,Los Angeles,11/12/2024,27,16.7,39.23,4.3,DISCOUNT10,199,Monica Copeland,37,San Francisco,10,4.1,Inactive
+612,194,Los Angeles,11/16/2024,2,1.3,2.14,5,WELCOME5,194,Jill Patterson,53,San Francisco,18,4.8,Inactive
+622,199,New York,11/4/2024,51,33.5,58.69,4.2,SAVE20,199,Monica Copeland,37,San Francisco,10,4.1,Inactive
+627,101,Los Angeles,11/28/2024,37,22.3,33.5,3.9,WELCOME5,101,William Black,56,San Francisco,15,4.8,Active
+636,194,Miami,11/3/2024,10,6.2,17.3,4.2,WELCOME5,194,Jill Patterson,53,San Francisco,18,4.8,Inactive
+644,181,San Francisco,11/25/2024,63,25.8,56.39,4.6,WELCOME5,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+647,152,Chicago,11/27/2024,36,23.4,30.47,3.5,DISCOUNT10,152,Sharon Jones,36,San Francisco,9,4.2,Active
+648,101,Chicago,11/25/2024,53,24.7,19.85,4.6,SAVE20,101,William Black,56,San Francisco,15,4.8,Active
+656,145,New York,11/12/2024,97,49.2,55.75,4.3,SAVE20,145,Adam Noble,52,San Francisco,11,4.8,Active
+665,101,San Francisco,11/29/2024,37,18.1,19.95,4.7,DISCOUNT10,101,William Black,56,San Francisco,15,4.8,Active
+681,145,New York,11/7/2024,18,7.6,10.89,3.6,WELCOME5,145,Adam Noble,52,San Francisco,11,4.8,Active
+685,152,Chicago,11/5/2024,15,8.6,23.63,4.5,DISCOUNT10,152,Sharon Jones,36,San Francisco,9,4.2,Active
+728,145,San Francisco,11/16/2024,23,12.7,7.47,4.9,WELCOME5,145,Adam Noble,52,San Francisco,11,4.8,Active
+729,194,San Francisco,11/10/2024,49,20.4,56.99,4.4,DISCOUNT10,194,Jill Patterson,53,San Francisco,18,4.8,Inactive
+730,181,Los Angeles,11/10/2024,55,26.7,56.28,4.7,WELCOME5,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+733,189,Los Angeles,11/29/2024,86,46.6,74.08,4.4,DISCOUNT10,189,Christopher Garcia,59,San Francisco,19,4.9,Inactive
+734,104,Miami,11/26/2024,41,23,59.44,4.3,SAVE20,104,Tiffany Wright,58,San Francisco,19,4.4,Inactive
+738,104,Chicago,11/3/2024,29,17,33.85,3.5,DISCOUNT10,104,Tiffany Wright,58,San Francisco,19,4.4,Inactive
+773,153,Los Angeles,11/27/2024,58,25.5,19.13,4.4,DISCOUNT10,153,Omar Dunn,40,San Francisco,2,4.6,Active
+786,177,New York,11/9/2024,66,39.4,51.16,3.8,SAVE20,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+794,154,Los Angeles,11/7/2024,19,10.4,16.54,4.2,SAVE20,154,Heather Meyer,58,San Francisco,11,4,Active
+795,139,San Francisco,11/21/2024,24,15.4,27.84,4.9,SAVE20,139,John Deleon,47,San Francisco,11,4.3,Inactive
+822,164,San Francisco,11/6/2024,109,44.4,33.07,4.1,DISCOUNT10,164,Joshua Williams,33,San Francisco,9,4.5,Inactive
+825,153,San Francisco,11/5/2024,34,21.9,53.66,4.3,SAVE20,153,Omar Dunn,40,San Francisco,2,4.6,Active
+831,189,Chicago,11/13/2024,15,7.3,10.35,4.7,DISCOUNT10,189,Christopher Garcia,59,San Francisco,19,4.9,Inactive
+834,181,San Francisco,11/28/2024,80,42.1,36.08,4.5,SAVE20,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+836,181,San Francisco,11/7/2024,40,17.5,39.28,3.8,WELCOME5,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+843,177,Miami,11/26/2024,90,38.2,40.14,4.4,DISCOUNT10,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+844,101,Los Angeles,11/10/2024,36,18.9,13.1,4.7,SAVE20,101,William Black,56,San Francisco,15,4.8,Active
+852,145,San Francisco,11/30/2024,5,3.3,6.55,4.1,DISCOUNT10,145,Adam Noble,52,San Francisco,11,4.8,Active
+856,181,New York,11/30/2024,18,11.1,8.56,4.4,SAVE20,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+858,199,Miami,11/19/2024,91,39.7,65.13,3.7,SAVE20,199,Monica Copeland,37,San Francisco,10,4.1,Inactive
+869,181,San Francisco,11/12/2024,50,24.9,29.79,4,DISCOUNT10,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+890,164,Los Angeles,11/6/2024,78,46.4,33,4.8,DISCOUNT10,164,Joshua Williams,33,San Francisco,9,4.5,Inactive
+897,144,Miami,11/8/2024,89,47.3,54.05,4.9,WELCOME5,144,Valerie Henry MD,47,San Francisco,12,4.8,Inactive
+898,152,New York,11/8/2024,74,48,93.67,3.8,WELCOME5,152,Sharon Jones,36,San Francisco,9,4.2,Active
+901,117,San Francisco,11/30/2024,85,48,27.13,3.9,WELCOME5,117,Lisa Brown,36,San Francisco,20,4.8,Active
+912,189,San Francisco,11/2/2024,84,41.4,32.86,3.7,WELCOME5,189,Christopher Garcia,59,San Francisco,19,4.9,Inactive
+925,164,Los Angeles,11/13/2024,19,9.4,18.92,4.7,DISCOUNT10,164,Joshua Williams,33,San Francisco,9,4.5,Inactive
+927,177,San Francisco,11/3/2024,51,33.9,98.82,4.9,SAVE20,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+932,194,New York,11/8/2024,17,8.9,18.95,3.8,WELCOME5,194,Jill Patterson,53,San Francisco,18,4.8,Inactive
+935,177,Chicago,11/13/2024,10,4.9,9.01,4,WELCOME5,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+936,101,Chicago,11/23/2024,59,29,68.11,3.7,SAVE20,101,William Black,56,San Francisco,15,4.8,Active
+942,181,Miami,11/12/2024,47,27,71.15,4.1,WELCOME5,181,Deanna Clarke,28,San Francisco,18,4.9,Inactive
+945,189,Los Angeles,11/30/2024,68,38.1,79.67,3.5,DISCOUNT10,189,Christopher Garcia,59,San Francisco,19,4.9,Inactive
+948,104,Miami,11/7/2024,71,41.7,40.41,3.6,DISCOUNT10,104,Tiffany Wright,58,San Francisco,19,4.4,Inactive
+953,153,Chicago,11/9/2024,72,47.5,140.41,3.7,SAVE20,153,Omar Dunn,40,San Francisco,2,4.6,Active
+958,177,Los Angeles,11/26/2024,51,33.8,73.33,4.8,DISCOUNT10,177,Charles Guerrero,58,San Francisco,9,4.7,Active
+970,139,Los Angeles,11/5/2024,66,30.1,38.13,4.2,DISCOUNT10,139,John Deleon,47,San Francisco,11,4.3,Inactive
+972,190,San Francisco,11/8/2024,72,47,58.89,4.2,SAVE20,190,Michelle Rhodes,29,San Francisco,20,4.2,Active
+980,164,Chicago,11/3/2024,25,11.1,28.5,4.9,SAVE20,164,Joshua Williams,33,San Francisco,9,4.5,Inactive
+982,117,Chicago,11/26/2024,37,17.8,34.66,3.6,WELCOME5,117,Lisa Brown,36,San Francisco,20,4.8,Active
+996,189,Miami,11/6/2024,95,45.8,95.92,4.2,SAVE20,189,Christopher Garcia,59,San Francisco,19,4.9,Inactive
+9,200,New York,11/6/2024,81,38.1,59.02,4.3,SAVE20,200,Amy Guzman,36,New York,20,4.3,Active
+122,200,Chicago,11/2/2024,11,5.8,12.14,4.1,SAVE20,200,Amy Guzman,36,New York,20,4.3,Active
+119,109,Los Angeles,11/3/2024,48,20.1,23.55,4.1,DISCOUNT10,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+42,130,Miami,11/30/2024,23,9.8,12.85,3.5,DISCOUNT10,130,David Craig,50,New York,18,4.7,Inactive
+129,130,Los Angeles,11/28/2024,28,18.9,53.31,3.7,DISCOUNT10,130,David Craig,50,New York,18,4.7,Inactive
+86,138,San Francisco,11/29/2024,72,39,66.08,3.9,SAVE20,138,Christine Adkins,60,New York,16,4.8,Active
+92,138,Miami,11/11/2024,39,19.7,32.05,4.6,SAVE20,138,Christine Adkins,60,New York,16,4.8,Active
+69,143,New York,11/4/2024,50,27.5,35.6,4.9,DISCOUNT10,143,Martha Nunez,36,New York,4,4.1,Active
+91,143,Chicago,11/1/2024,98,43.2,121.42,4.9,WELCOME5,143,Martha Nunez,36,New York,4,4.1,Active
+73,174,Los Angeles,11/18/2024,95,41.5,88.39,4.3,WELCOME5,174,Eric Gonzalez,44,New York,12,5,Active
+123,174,Miami,11/5/2024,2,1.4,3.02,3.6,DISCOUNT10,174,Eric Gonzalez,44,New York,12,5,Active
+85,166,New York,11/14/2024,56,35.7,47.18,4,WELCOME5,166,Alexa Thomas,56,New York,14,4.6,Inactive
+132,186,New York,11/16/2024,5,2.7,5.39,3.6,WELCOME5,186,Christopher Franco,37,New York,20,4.8,Inactive
+156,186,Miami,11/10/2024,21,9.2,8.07,4.8,DISCOUNT10,186,Christopher Franco,37,New York,20,4.8,Inactive
+165,130,Los Angeles,11/2/2024,4,2.3,2.88,3.6,SAVE20,130,David Craig,50,New York,18,4.7,Inactive
+167,143,Miami,11/23/2024,3,1.6,2.74,4.6,SAVE20,143,Martha Nunez,36,New York,4,4.1,Active
+173,179,Los Angeles,11/15/2024,6,4.3,3.85,4.7,WELCOME5,179,Johnathan Shah,52,New York,14,4.8,Inactive
+176,141,New York,11/10/2024,50,23.2,60.37,3.6,SAVE20,141,Luis Compton,49,New York,15,4.6,Active
+178,130,New York,11/22/2024,92,42.7,102.1,4.2,DISCOUNT10,130,David Craig,50,New York,18,4.7,Inactive
+184,129,New York,11/21/2024,72,43.4,58.74,4.5,DISCOUNT10,129,Mary Andrews,46,New York,3,4.4,Active
+206,109,Miami,11/1/2024,64,42.6,29.98,4.5,SAVE20,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+220,125,Chicago,11/29/2024,60,29.6,88.06,3.7,WELCOME5,125,Gabriel Jackson,55,New York,5,4.8,Inactive
+227,109,San Francisco,11/30/2024,25,10.7,31.15,4.9,WELCOME5,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+250,143,San Francisco,11/6/2024,54,27.3,43.35,4.3,WELCOME5,143,Martha Nunez,36,New York,4,4.1,Active
+276,112,New York,11/5/2024,9,5,12.01,4.3,DISCOUNT10,112,Steven Williams,59,New York,10,4.5,Inactive
+287,109,Miami,11/7/2024,59,37.2,29.42,3.7,SAVE20,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+290,125,New York,11/16/2024,70,42.7,38.96,4.6,WELCOME5,125,Gabriel Jackson,55,New York,5,4.8,Inactive
+293,138,Los Angeles,11/14/2024,45,22.3,12.96,3.8,SAVE20,138,Christine Adkins,60,New York,16,4.8,Active
+305,112,New York,11/15/2024,47,30.2,71.63,4.2,WELCOME5,112,Steven Williams,59,New York,10,4.5,Inactive
+319,125,New York,11/8/2024,2,1.1,0.99,3.8,SAVE20,125,Gabriel Jackson,55,New York,5,4.8,Inactive
+320,129,Miami,11/8/2024,25,16.6,13.09,4.5,DISCOUNT10,129,Mary Andrews,46,New York,3,4.4,Active
+322,109,Chicago,11/28/2024,78,46.6,107.5,4.7,WELCOME5,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+330,186,New York,11/8/2024,26,13.3,26.47,4.6,DISCOUNT10,186,Christopher Franco,37,New York,20,4.8,Inactive
+336,129,Los Angeles,11/24/2024,86,40.6,97.2,3.7,WELCOME5,129,Mary Andrews,46,New York,3,4.4,Active
+342,143,Chicago,11/16/2024,19,10.3,6.2,4.2,SAVE20,143,Martha Nunez,36,New York,4,4.1,Active
+375,186,Chicago,11/9/2024,35,15.7,34.91,4.4,SAVE20,186,Christopher Franco,37,New York,20,4.8,Inactive
+378,200,San Francisco,11/20/2024,41,16.7,31.77,4.5,WELCOME5,200,Amy Guzman,36,New York,20,4.3,Active
+381,166,Miami,11/21/2024,36,20.7,33.83,3.8,SAVE20,166,Alexa Thomas,56,New York,14,4.6,Inactive
+383,200,Los Angeles,11/24/2024,73,30,88.85,3.6,WELCOME5,200,Amy Guzman,36,New York,20,4.3,Active
+385,129,Miami,11/27/2024,69,43.4,109.45,3.5,WELCOME5,129,Mary Andrews,46,New York,3,4.4,Active
+389,159,Miami,11/25/2024,31,18.7,23.07,4.5,WELCOME5,159,Tina Mcdonald,26,New York,11,4.4,Inactive
+402,200,Los Angeles,11/10/2024,4,2.5,4.15,4.5,SAVE20,200,Amy Guzman,36,New York,20,4.3,Active
+404,159,Miami,11/11/2024,82,36.8,78.74,4.8,SAVE20,159,Tina Mcdonald,26,New York,11,4.4,Inactive
+407,150,Chicago,11/18/2024,101,41.3,24.62,3.6,DISCOUNT10,150,Jordan Lee,60,New York,13,4.5,Inactive
+413,141,Chicago,11/29/2024,44,25.3,20.57,3.5,DISCOUNT10,141,Luis Compton,49,New York,15,4.6,Active
+416,129,Chicago,11/4/2024,20,12.4,14.34,3.5,DISCOUNT10,129,Mary Andrews,46,New York,3,4.4,Active
+423,129,New York,11/2/2024,32,16.1,35.92,4.8,SAVE20,129,Mary Andrews,46,New York,3,4.4,Active
+432,200,Miami,11/14/2024,68,33.3,27.7,4.5,WELCOME5,200,Amy Guzman,36,New York,20,4.3,Active
+438,130,Los Angeles,11/30/2024,74,48.9,112.91,4.7,WELCOME5,130,David Craig,50,New York,18,4.7,Inactive
+446,138,Chicago,11/6/2024,23,10.6,23.39,4.9,DISCOUNT10,138,Christine Adkins,60,New York,16,4.8,Active
+456,112,New York,11/3/2024,66,40.8,69.68,4.1,WELCOME5,112,Steven Williams,59,New York,10,4.5,Inactive
+459,143,San Francisco,11/2/2024,61,33.1,36.84,4.5,DISCOUNT10,143,Martha Nunez,36,New York,4,4.1,Active
+460,129,Miami,11/26/2024,67,27.7,18.76,4.8,SAVE20,129,Mary Andrews,46,New York,3,4.4,Active
+464,141,Chicago,11/22/2024,39,21.1,29.6,4.8,SAVE20,141,Luis Compton,49,New York,15,4.6,Active
+465,109,New York,11/14/2024,113,49.3,75.12,3.9,WELCOME5,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+474,125,Chicago,11/11/2024,39,22.6,33,4.9,DISCOUNT10,125,Gabriel Jackson,55,New York,5,4.8,Inactive
+493,112,San Francisco,11/18/2024,91,45.2,48.54,3.9,WELCOME5,112,Steven Williams,59,New York,10,4.5,Inactive
+504,174,San Francisco,11/3/2024,31,20,43.72,4,DISCOUNT10,174,Eric Gonzalez,44,New York,12,5,Active
+519,174,Miami,11/21/2024,67,39.5,55.98,3.8,DISCOUNT10,174,Eric Gonzalez,44,New York,12,5,Active
+532,123,Chicago,11/30/2024,103,48.9,34.88,3.9,WELCOME5,123,David Newton,57,New York,6,5,Active
+540,125,Miami,11/23/2024,30,13.8,18.81,4.9,SAVE20,125,Gabriel Jackson,55,New York,5,4.8,Inactive
+562,200,Los Angeles,11/11/2024,35,23.2,32.83,4.5,WELCOME5,200,Amy Guzman,36,New York,20,4.3,Active
+565,150,San Francisco,11/28/2024,15,8.3,17.34,4.7,DISCOUNT10,150,Jordan Lee,60,New York,13,4.5,Inactive
+576,110,San Francisco,11/21/2024,33,16,9.7,4.3,DISCOUNT10,110,Brittany Cruz,59,New York,17,4.9,Inactive
+582,138,Los Angeles,11/13/2024,13,7.2,4.13,3.8,DISCOUNT10,138,Christine Adkins,60,New York,16,4.8,Active
+583,174,Chicago,11/23/2024,42,17.5,27.82,4.5,WELCOME5,174,Eric Gonzalez,44,New York,12,5,Active
+586,143,Miami,11/6/2024,62,36.9,52.35,4.9,WELCOME5,143,Martha Nunez,36,New York,4,4.1,Active
+599,109,Miami,11/27/2024,13,6.7,13.36,3.9,DISCOUNT10,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+606,109,Chicago,11/6/2024,77,31.4,91.42,4.3,DISCOUNT10,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+619,162,Chicago,11/16/2024,17,11,23.94,3.6,DISCOUNT10,162,Mrs. Shannon Ward,58,New York,18,5,Active
+632,186,Los Angeles,11/5/2024,80,45.2,85.55,4.4,WELCOME5,186,Christopher Franco,37,New York,20,4.8,Inactive
+637,141,New York,11/18/2024,43,27.7,75.27,4.6,SAVE20,141,Luis Compton,49,New York,15,4.6,Active
+642,109,San Francisco,11/4/2024,59,26.6,21.67,4.9,DISCOUNT10,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+657,110,San Francisco,11/7/2024,2,1.6,1.05,4.4,WELCOME5,110,Brittany Cruz,59,New York,17,4.9,Inactive
+662,123,Miami,11/24/2024,59,26.2,38.01,4.3,SAVE20,123,David Newton,57,New York,6,5,Active
+672,200,Miami,11/7/2024,84,43.7,127.86,3.9,DISCOUNT10,200,Amy Guzman,36,New York,20,4.3,Active
+676,186,Los Angeles,11/15/2024,64,34.5,20.3,4.1,WELCOME5,186,Christopher Franco,37,New York,20,4.8,Inactive
+687,179,Miami,11/24/2024,46,29.2,35.35,4.4,DISCOUNT10,179,Johnathan Shah,52,New York,14,4.8,Inactive
+692,109,New York,11/10/2024,27,16,15.32,3.6,DISCOUNT10,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+700,141,New York,11/26/2024,65,31.2,31.05,4.6,WELCOME5,141,Luis Compton,49,New York,15,4.6,Active
+711,162,San Francisco,11/24/2024,74,49.4,56.34,3.7,WELCOME5,162,Mrs. Shannon Ward,58,New York,18,5,Active
+724,200,Los Angeles,11/16/2024,38,16.1,46.82,3.5,WELCOME5,200,Amy Guzman,36,New York,20,4.3,Active
+739,125,Miami,11/13/2024,74,36.2,62.06,3.8,DISCOUNT10,125,Gabriel Jackson,55,New York,5,4.8,Inactive
+742,143,Miami,11/30/2024,52,33.9,25.17,4.6,SAVE20,143,Martha Nunez,36,New York,4,4.1,Active
+744,141,San Francisco,11/24/2024,2,1,2.63,4.9,WELCOME5,141,Luis Compton,49,New York,15,4.6,Active
+748,143,San Francisco,11/13/2024,58,24.1,28.91,4.3,WELCOME5,143,Martha Nunez,36,New York,4,4.1,Active
+750,123,San Francisco,11/11/2024,23,10.2,28.52,4.2,SAVE20,123,David Newton,57,New York,6,5,Active
+753,123,Chicago,11/28/2024,61,40.6,116.74,3.7,SAVE20,123,David Newton,57,New York,6,5,Active
+756,110,Miami,11/6/2024,28,14.2,28.15,3.5,DISCOUNT10,110,Brittany Cruz,59,New York,17,4.9,Inactive
+763,125,Chicago,11/8/2024,59,28.3,24.35,3.7,SAVE20,125,Gabriel Jackson,55,New York,5,4.8,Inactive
+769,200,Los Angeles,11/27/2024,44,25.1,15.99,4.2,SAVE20,200,Amy Guzman,36,New York,20,4.3,Active
+771,186,New York,11/19/2024,50,21.3,35.73,4.9,WELCOME5,186,Christopher Franco,37,New York,20,4.8,Inactive
+772,129,New York,11/18/2024,10,4.8,12.46,4.3,DISCOUNT10,129,Mary Andrews,46,New York,3,4.4,Active
+774,150,San Francisco,11/6/2024,111,46.4,137.83,4.1,WELCOME5,150,Jordan Lee,60,New York,13,4.5,Inactive
+779,130,Miami,11/22/2024,66,35,49.19,4.9,DISCOUNT10,130,David Craig,50,New York,18,4.7,Inactive
+783,174,Los Angeles,11/6/2024,53,29.8,22.3,4.7,WELCOME5,174,Eric Gonzalez,44,New York,12,5,Active
+791,179,New York,11/8/2024,105,45.9,128.24,4.5,SAVE20,179,Johnathan Shah,52,New York,14,4.8,Inactive
+796,143,San Francisco,11/28/2024,27,11,22.16,4.6,WELCOME5,143,Martha Nunez,36,New York,4,4.1,Active
+806,186,San Francisco,11/11/2024,44,29,76.12,4.7,WELCOME5,186,Christopher Franco,37,New York,20,4.8,Inactive
+809,200,Los Angeles,11/26/2024,46,27.7,26.01,4.8,SAVE20,200,Amy Guzman,36,New York,20,4.3,Active
+811,166,New York,11/26/2024,50,32,20.32,3.9,DISCOUNT10,166,Alexa Thomas,56,New York,14,4.6,Inactive
+819,179,New York,11/19/2024,7,3.7,8.99,4,SAVE20,179,Johnathan Shah,52,New York,14,4.8,Inactive
+824,125,San Francisco,11/29/2024,79,45,124.28,4.9,WELCOME5,125,Gabriel Jackson,55,New York,5,4.8,Inactive
+827,130,New York,11/24/2024,85,41.8,122.2,3.9,SAVE20,130,David Craig,50,New York,18,4.7,Inactive
+832,143,Los Angeles,11/16/2024,70,33.8,86.99,4.3,WELCOME5,143,Martha Nunez,36,New York,4,4.1,Active
+846,200,San Francisco,11/14/2024,42,22.1,64.37,4.7,DISCOUNT10,200,Amy Guzman,36,New York,20,4.3,Active
+849,174,Chicago,11/9/2024,69,29.5,54,5,SAVE20,174,Eric Gonzalez,44,New York,12,5,Active
+885,174,New York,11/20/2024,21,9.8,18.57,4.8,SAVE20,174,Eric Gonzalez,44,New York,12,5,Active
+891,110,Los Angeles,11/16/2024,79,40.1,33.47,3.7,WELCOME5,110,Brittany Cruz,59,New York,17,4.9,Inactive
+900,110,Miami,11/6/2024,20,12,14.46,4.1,SAVE20,110,Brittany Cruz,59,New York,17,4.9,Inactive
+913,162,Los Angeles,11/1/2024,32,16.1,36.96,4.9,WELCOME5,162,Mrs. Shannon Ward,58,New York,18,5,Active
+916,143,Miami,11/7/2024,30,19.6,14.03,4.8,DISCOUNT10,143,Martha Nunez,36,New York,4,4.1,Active
+921,138,New York,11/7/2024,98,41.2,30.99,3.8,SAVE20,138,Christine Adkins,60,New York,16,4.8,Active
+952,179,Los Angeles,11/19/2024,31,17.1,25.79,3.6,DISCOUNT10,179,Johnathan Shah,52,New York,14,4.8,Inactive
+956,112,Los Angeles,11/20/2024,56,31.3,48.35,4.3,SAVE20,112,Steven Williams,59,New York,10,4.5,Inactive
+963,186,Los Angeles,11/21/2024,5,2.2,4.33,4.1,DISCOUNT10,186,Christopher Franco,37,New York,20,4.8,Inactive
+964,186,New York,11/10/2024,18,12.5,14.88,3.7,WELCOME5,186,Christopher Franco,37,New York,20,4.8,Inactive
+967,174,San Francisco,11/15/2024,96,45.8,22.96,4.3,DISCOUNT10,174,Eric Gonzalez,44,New York,12,5,Active
+975,125,Chicago,11/3/2024,81,34.9,97.8,4.9,DISCOUNT10,125,Gabriel Jackson,55,New York,5,4.8,Inactive
+985,123,Los Angeles,11/24/2024,13,6.5,18.63,4.8,WELCOME5,123,David Newton,57,New York,6,5,Active
+986,162,San Francisco,11/7/2024,64,31.2,80.1,4.5,SAVE20,162,Mrs. Shannon Ward,58,New York,18,5,Active
+991,109,New York,11/11/2024,42,24.1,68.89,4.7,DISCOUNT10,109,Maxwell Gallagher,35,New York,15,4.5,Inactive
+126,116,New York,11/4/2024,51,25.2,42.15,4.2,DISCOUNT10,116,Mark Hernandez,38,Miami,18,4.9,Inactive
+133,118,New York,11/11/2024,45,18.9,15.4,3.8,SAVE20,118,Jimmy Davis,51,Miami,2,4.7,Active
+28,187,Chicago,11/8/2024,82,46.1,99.46,4.5,WELCOME5,187,Catherine Levine,43,Miami,1,4.3,Inactive
+39,175,Chicago,11/13/2024,62,40.5,34.84,4.7,SAVE20,175,Erica Roberts,49,Miami,20,5,Inactive
+65,131,New York,11/20/2024,56,33.6,77.7,4.6,SAVE20,131,Lance Fox,58,Miami,14,4.9,Active
+136,133,Miami,11/4/2024,49,20.5,55.03,4.5,DISCOUNT10,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+55,182,New York,11/7/2024,71,45.8,122.43,4,SAVE20,182,Edward Gonzalez,58,Miami,19,5,Active
+58,191,Los Angeles,11/11/2024,40,23.8,29.98,3.7,DISCOUNT10,191,Angel Sharp,59,Miami,11,4.2,Inactive
+60,156,Los Angeles,11/26/2024,45,23.9,21.68,4.5,WELCOME5,156,Peggy Scott PhD,37,Miami,12,4.3,Inactive
+94,156,Los Angeles,11/24/2024,87,40.9,50.87,4.6,DISCOUNT10,156,Peggy Scott PhD,37,Miami,12,4.3,Inactive
+66,173,Los Angeles,11/13/2024,19,7.8,5.5,4.7,WELCOME5,173,Sharon Thomas,43,Miami,8,4.9,Inactive
+130,176,Los Angeles,11/4/2024,92,42.8,49.87,4.3,DISCOUNT10,176,Brett Guzman,59,Miami,14,4.6,Inactive
+114,184,Los Angeles,11/29/2024,4,2.2,6.22,4.4,SAVE20,184,Nathaniel Smith,34,Miami,2,4.4,Inactive
+166,172,New York,11/26/2024,18,7.8,11.72,4.9,SAVE20,172,William Richards,36,Miami,1,4.8,Inactive
+177,126,Chicago,11/7/2024,93,48.9,139.58,3.7,DISCOUNT10,126,Linda Gray,45,Miami,2,4.9,Active
+185,118,Miami,11/26/2024,70,38.3,26.84,4.7,DISCOUNT10,118,Jimmy Davis,51,Miami,2,4.7,Active
+188,133,Miami,11/18/2024,54,23.5,20.49,4.3,SAVE20,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+192,182,New York,11/27/2024,5,2.2,4.09,4.2,DISCOUNT10,182,Edward Gonzalez,58,Miami,19,5,Active
+202,156,Miami,11/19/2024,17,7.4,19.98,3.8,WELCOME5,156,Peggy Scott PhD,37,Miami,12,4.3,Inactive
+208,126,New York,11/17/2024,56,26.9,48.92,3.8,WELCOME5,126,Linda Gray,45,Miami,2,4.9,Active
+209,114,Miami,11/27/2024,11,5.9,4.25,4.8,WELCOME5,114,Sara Alvarado,46,Miami,17,4.1,Active
+212,175,Los Angeles,11/26/2024,57,35,64.07,3.5,DISCOUNT10,175,Erica Roberts,49,Miami,20,5,Inactive
+216,191,Miami,11/28/2024,37,18.4,47.79,4.9,DISCOUNT10,191,Angel Sharp,59,Miami,11,4.2,Inactive
+218,187,New York,11/27/2024,42,22.8,19.03,4.6,DISCOUNT10,187,Catherine Levine,43,Miami,1,4.3,Inactive
+231,131,Los Angeles,11/1/2024,10,6.8,13.06,4.2,SAVE20,131,Lance Fox,58,Miami,14,4.9,Active
+236,192,Chicago,11/14/2024,44,22.9,59.61,4.7,DISCOUNT10,192,Andrew Weaver,55,Miami,14,4.7,Inactive
+280,182,San Francisco,11/10/2024,5,3.3,5.59,4.4,SAVE20,182,Edward Gonzalez,58,Miami,19,5,Active
+285,126,San Francisco,11/7/2024,6,3.9,9.01,4,DISCOUNT10,126,Linda Gray,45,Miami,2,4.9,Active
+318,184,New York,11/24/2024,84,49.3,115.38,4.4,DISCOUNT10,184,Nathaniel Smith,34,Miami,2,4.4,Inactive
+323,172,New York,11/30/2024,39,21.7,34.75,4.2,SAVE20,172,William Richards,36,Miami,1,4.8,Inactive
+335,182,New York,11/6/2024,88,41,53.44,3.6,SAVE20,182,Edward Gonzalez,58,Miami,19,5,Active
+340,114,Los Angeles,11/17/2024,76,39.4,33.68,4.9,DISCOUNT10,114,Sara Alvarado,46,Miami,17,4.1,Active
+344,133,Miami,11/19/2024,66,33,79.04,4.8,DISCOUNT10,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+350,156,New York,11/7/2024,39,16.1,28.45,4.3,DISCOUNT10,156,Peggy Scott PhD,37,Miami,12,4.3,Inactive
+351,169,San Francisco,11/24/2024,26,14.7,36.87,4.5,DISCOUNT10,169,Jacqueline Porter,56,Miami,9,4.5,Active
+354,126,Los Angeles,11/2/2024,29,14,22.49,3.7,SAVE20,126,Linda Gray,45,Miami,2,4.9,Active
+359,131,San Francisco,11/5/2024,20,12.1,34.06,4.7,WELCOME5,131,Lance Fox,58,Miami,14,4.9,Active
+363,175,Chicago,11/7/2024,39,20.8,58.31,3.9,WELCOME5,175,Erica Roberts,49,Miami,20,5,Inactive
+368,131,Los Angeles,11/3/2024,2,1.5,0.92,4.5,DISCOUNT10,131,Lance Fox,58,Miami,14,4.9,Active
+372,196,New York,11/14/2024,2,1.4,3.72,4.8,SAVE20,196,Stephen Ryan,54,Miami,9,4.8,Inactive
+386,114,Los Angeles,11/1/2024,65,30.1,61.66,3.6,SAVE20,114,Sara Alvarado,46,Miami,17,4.1,Active
+397,131,Chicago,11/19/2024,35,14.6,40.25,4.3,DISCOUNT10,131,Lance Fox,58,Miami,14,4.9,Active
+414,196,Los Angeles,11/25/2024,92,47.2,24.7,4.1,SAVE20,196,Stephen Ryan,54,Miami,9,4.8,Inactive
+422,114,Chicago,11/25/2024,31,17.9,44.97,3.6,SAVE20,114,Sara Alvarado,46,Miami,17,4.1,Active
+434,176,Miami,11/8/2024,36,24.2,18.64,5,DISCOUNT10,176,Brett Guzman,59,Miami,14,4.6,Inactive
+439,133,San Francisco,11/17/2024,20,9.8,16.15,4.9,SAVE20,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+443,116,Chicago,11/25/2024,75,49,54.07,4.4,SAVE20,116,Mark Hernandez,38,Miami,18,4.9,Inactive
+457,126,Los Angeles,11/10/2024,59,25.8,20.87,3.7,SAVE20,126,Linda Gray,45,Miami,2,4.9,Active
+490,196,Miami,11/1/2024,37,21.5,15.49,4,SAVE20,196,Stephen Ryan,54,Miami,9,4.8,Inactive
+495,156,Miami,11/7/2024,30,18.5,50.9,3.5,WELCOME5,156,Peggy Scott PhD,37,Miami,12,4.3,Inactive
+505,114,New York,11/28/2024,57,35,99.87,4.4,DISCOUNT10,114,Sara Alvarado,46,Miami,17,4.1,Active
+515,175,San Francisco,11/29/2024,88,45.3,42.47,4.5,WELCOME5,175,Erica Roberts,49,Miami,20,5,Inactive
+516,184,Miami,11/10/2024,57,27,24.79,4,SAVE20,184,Nathaniel Smith,34,Miami,2,4.4,Inactive
+522,116,San Francisco,11/11/2024,24,14.4,33.3,4.1,SAVE20,116,Mark Hernandez,38,Miami,18,4.9,Inactive
+525,173,Chicago,11/29/2024,59,37,20.72,4.4,DISCOUNT10,173,Sharon Thomas,43,Miami,8,4.9,Inactive
+530,116,Los Angeles,11/14/2024,88,46,28.07,4.2,WELCOME5,116,Mark Hernandez,38,Miami,18,4.9,Inactive
+535,169,Los Angeles,11/11/2024,94,41.9,76.26,3.5,WELCOME5,169,Jacqueline Porter,56,Miami,9,4.5,Active
+541,196,Miami,11/28/2024,73,33.6,57.94,4.3,SAVE20,196,Stephen Ryan,54,Miami,9,4.8,Inactive
+555,118,Chicago,11/22/2024,58,36.1,87.73,3.8,DISCOUNT10,118,Jimmy Davis,51,Miami,2,4.7,Active
+560,172,New York,11/3/2024,15,9.2,14.98,4.5,SAVE20,172,William Richards,36,Miami,1,4.8,Inactive
+564,169,Chicago,11/4/2024,52,24.7,48.71,4.7,DISCOUNT10,169,Jacqueline Porter,56,Miami,9,4.5,Active
+568,187,San Francisco,11/21/2024,83,38.1,22.53,3.8,WELCOME5,187,Catherine Levine,43,Miami,1,4.3,Inactive
+573,169,Miami,11/22/2024,33,16.9,39.98,4.9,SAVE20,169,Jacqueline Porter,56,Miami,9,4.5,Active
+580,191,San Francisco,11/21/2024,6,2.8,5.47,4.9,SAVE20,191,Angel Sharp,59,Miami,11,4.2,Inactive
+605,126,Miami,11/16/2024,7,3.1,7.15,4,DISCOUNT10,126,Linda Gray,45,Miami,2,4.9,Active
+611,133,Miami,11/24/2024,5,2.1,3.64,4.5,SAVE20,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+613,126,Chicago,11/25/2024,26,16.9,35,4.8,SAVE20,126,Linda Gray,45,Miami,2,4.9,Active
+616,172,Chicago,11/4/2024,40,17.1,46.93,4.5,WELCOME5,172,William Richards,36,Miami,1,4.8,Inactive
+621,196,Chicago,11/22/2024,76,32.9,84.79,4.2,WELCOME5,196,Stephen Ryan,54,Miami,9,4.8,Inactive
+623,196,New York,11/17/2024,71,41.7,104.57,4.8,WELCOME5,196,Stephen Ryan,54,Miami,9,4.8,Inactive
+625,182,San Francisco,11/7/2024,16,9.1,22.33,3.5,SAVE20,182,Edward Gonzalez,58,Miami,19,5,Active
+641,131,Chicago,11/27/2024,103,47.2,60.1,4.3,SAVE20,131,Lance Fox,58,Miami,14,4.9,Active
+666,169,San Francisco,11/11/2024,27,12.7,13.89,4.9,SAVE20,169,Jacqueline Porter,56,Miami,9,4.5,Active
+669,184,Los Angeles,11/25/2024,74,36.2,73.67,4.8,SAVE20,184,Nathaniel Smith,34,Miami,2,4.4,Inactive
+671,184,Miami,11/22/2024,78,42.2,74.18,4.1,DISCOUNT10,184,Nathaniel Smith,34,Miami,2,4.4,Inactive
+674,191,New York,11/7/2024,114,49.1,42.33,3.6,WELCOME5,191,Angel Sharp,59,Miami,11,4.2,Inactive
+677,173,Miami,11/8/2024,4,2.1,2.58,4.4,SAVE20,173,Sharon Thomas,43,Miami,8,4.9,Inactive
+679,196,San Francisco,11/16/2024,39,18.1,49.03,3.6,SAVE20,196,Stephen Ryan,54,Miami,9,4.8,Inactive
+684,118,Chicago,11/24/2024,41,21.5,50.64,4.8,WELCOME5,118,Jimmy Davis,51,Miami,2,4.7,Active
+693,175,San Francisco,11/15/2024,59,36.9,104.78,3.7,DISCOUNT10,175,Erica Roberts,49,Miami,20,5,Inactive
+698,173,Chicago,11/28/2024,62,27.4,78.57,4.4,SAVE20,173,Sharon Thomas,43,Miami,8,4.9,Inactive
+722,192,Miami,11/8/2024,20,8.7,7.61,4.3,WELCOME5,192,Andrew Weaver,55,Miami,14,4.7,Inactive
+732,173,New York,11/20/2024,23,11.1,29.71,4.3,DISCOUNT10,173,Sharon Thomas,43,Miami,8,4.9,Inactive
+740,133,Los Angeles,11/21/2024,65,32.7,78,4.3,SAVE20,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+747,114,New York,11/5/2024,33,18.9,24.68,4.4,SAVE20,114,Sara Alvarado,46,Miami,17,4.1,Active
+755,191,Chicago,11/4/2024,37,17.4,27.05,4.8,DISCOUNT10,191,Angel Sharp,59,Miami,11,4.2,Inactive
+757,187,Los Angeles,11/28/2024,73,46.1,114.91,4.6,WELCOME5,187,Catherine Levine,43,Miami,1,4.3,Inactive
+759,175,San Francisco,11/4/2024,56,30.4,24,3.5,WELCOME5,175,Erica Roberts,49,Miami,20,5,Inactive
+762,133,Chicago,11/30/2024,15,7.1,12.74,4.3,DISCOUNT10,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+766,169,New York,11/4/2024,70,36.6,50.83,4.1,DISCOUNT10,169,Jacqueline Porter,56,Miami,9,4.5,Active
+767,173,Miami,11/21/2024,46,22.1,12.43,4.7,DISCOUNT10,173,Sharon Thomas,43,Miami,8,4.9,Inactive
+781,169,Chicago,11/10/2024,79,34.9,69.02,4.1,WELCOME5,169,Jacqueline Porter,56,Miami,9,4.5,Active
+788,196,New York,11/20/2024,63,35.1,43.25,4.3,DISCOUNT10,196,Stephen Ryan,54,Miami,9,4.8,Inactive
+789,172,Miami,11/10/2024,35,17.1,37.88,4.1,DISCOUNT10,172,William Richards,36,Miami,1,4.8,Inactive
+790,156,Los Angeles,11/6/2024,80,39.8,77.51,4.2,DISCOUNT10,156,Peggy Scott PhD,37,Miami,12,4.3,Inactive
+799,118,Los Angeles,11/4/2024,98,39.7,48.07,4,WELCOME5,118,Jimmy Davis,51,Miami,2,4.7,Active
+826,114,Miami,11/2/2024,65,40.7,74.2,3.8,SAVE20,114,Sara Alvarado,46,Miami,17,4.1,Active
+828,133,Los Angeles,11/30/2024,25,11.4,23.69,3.5,WELCOME5,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+833,173,New York,11/21/2024,11,5.4,16.05,3.8,SAVE20,173,Sharon Thomas,43,Miami,8,4.9,Inactive
+841,173,Los Angeles,11/8/2024,48,26.1,66.08,4.6,WELCOME5,173,Sharon Thomas,43,Miami,8,4.9,Inactive
+845,196,Los Angeles,11/29/2024,23,15.8,32.28,4.6,WELCOME5,196,Stephen Ryan,54,Miami,9,4.8,Inactive
+865,133,New York,11/16/2024,50,25.3,14.63,4.5,SAVE20,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+866,175,San Francisco,11/19/2024,75,45.4,61.72,4.7,WELCOME5,175,Erica Roberts,49,Miami,20,5,Inactive
+873,184,Chicago,11/3/2024,66,42.1,78.9,4.5,SAVE20,184,Nathaniel Smith,34,Miami,2,4.4,Inactive
+875,126,New York,11/12/2024,24,11.8,14.45,3.6,DISCOUNT10,126,Linda Gray,45,Miami,2,4.9,Active
+915,116,Chicago,11/27/2024,109,46.9,91.39,5,DISCOUNT10,116,Mark Hernandez,38,Miami,18,4.9,Inactive
+918,114,Chicago,11/9/2024,35,15.9,30.69,3.8,SAVE20,114,Sara Alvarado,46,Miami,17,4.1,Active
+923,173,New York,11/30/2024,25,11.1,8.44,4,WELCOME5,173,Sharon Thomas,43,Miami,8,4.9,Inactive
+943,133,New York,11/3/2024,41,26.7,72.16,3.7,WELCOME5,133,Adrienne Thompson,40,Miami,7,4.2,Inactive
+976,116,Chicago,11/18/2024,64,25.8,35.46,4.8,SAVE20,116,Mark Hernandez,38,Miami,18,4.9,Inactive
+981,176,Los Angeles,11/9/2024,24,16.1,31.69,4.9,WELCOME5,176,Brett Guzman,59,Miami,14,4.6,Inactive
+992,126,Los Angeles,11/22/2024,52,27.9,70.48,4.8,WELCOME5,126,Linda Gray,45,Miami,2,4.9,Active
